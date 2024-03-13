@@ -8,8 +8,18 @@ Este passo consiste em identificar três aspectos essenciais do sistema, dados p
 - Restrições ao nível de sistema ou ***System-Level Constraints***, são estados do sistema que devem ser cumpridos para evitar a ocorrência de Perigos.
 
 ## Criação do dataset
-Este dataset foi criado por meio da extração de sentenças encontradas em apresentações de STPA realizadas no [*MIT Partnership for Systems Approaches to Safety and Security* (PSASS)](https://psas.scripts.mit.edu/home/), durante o período de 2012-2022.
-Também estão inclusas sentenças extraídas de trabalhos sobre STPA, de uma disciplina de Sistemas Críticos lecionada pelo Prof. Dr. Luiz Eduardo Galvão Martins, da Universidade Federal de São Paulo (UNIFESP).
+Este dataset foi criado por meio da extração de sentenças em inglês encontradas em apresentações de STPA realizadas no [*MIT Partnership for Systems Approaches to Safety and Security* (PSASS)](https://psas.scripts.mit.edu/home/), durante o período de 2012-2022.
+Também estão inclusas sentenças extraídas de trabalhos sobre STPA, de uma disciplina de Sistemas Críticos lecionada pelo Prof. Dr. Luiz Eduardo Galvão Martins, da Universidade Federal de São Paulo (UNIFESP). Estes exemplos foram traduzidos para a lingua inglesa.
+
+## Forma de uso
+O dataset é um arquivo ".csv", com separação por TAB, pois existem vígulas dentro de sentenças e podem impactar na organização do documento.
+Para o uso em Python, é recomendado o uso do código seguinte com a bliblioteca Pandas:
+```python
+import pandas as pd
+df = pd.read_csv('/[PATH]/stpa-step1-dataset.csv', sep='\t', names=['req','label'])
+}
+```
+O uso do atributo "*names=*" para definição de nome de colunas é opcional.
 
 ## Distribuição de dados
 As sentenças retiradas são exemplos em tabelas das apresentações do workshop que explicitamente mostram o tipo da sentença (uma tabela com lista de Perdas, uma tabela com lista de Perigos, e uma tabela com lista de Restrições), que automaticamente representam o rótulo correspondente a ser preenchido no dataset.

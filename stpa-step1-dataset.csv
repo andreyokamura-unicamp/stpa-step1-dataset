@@ -1,1272 +1,1079 @@
-Loss of life or injury to personnel	LOSSES
-Loss of or damage to aircraft	LOSSES
-Loss of customer satisfaction	LOSSES
-Loss of data quality	LOSSES
-Loss of flight test productivity	LOSSES
-Exceeding structure load limits	HAZARDS
-Reduction in control of aircraft	HAZARDS
-Inability to produce a usable maneuver	HAZARDS
-Loss of mission	LOSSES
-Loss of life or injury to people	LOSSES
-Enviromental losses	LOSSES
-Monetary losses	LOSSES
-Mission preparation time is exceeded	HAZARDS
-System operational limits are exceeded	HAZARDS
-System is not ready to fulfill designated mission	HAZARDS
-Mission efficiency is compromised by interference	HAZARDS
-Mission critical information is exposed to unauthorized person	HAZARDS
-Reconfigure system depending on the expected mission	CONSTRAINTS
-Maintain system up-to-date	CONSTRAINTS
-In-company logistics	CONSTRAINTS
-Restore aircraft system functionality on field	CONSTRAINTS
-On field logistics	CONSTRAINTS
-Assist in system recovery from accidents	CONSTRAINTS
-Prepare system for mission execution	CONSTRAINTS
-Patient is injured by ionizing radiation	LOSSES
-Patient received a wrong dose of radiation in the tumor	HAZARDS
-Patient received a wrong dose of radiation in the healthy tissues	HAZARDS
-A patient should always receive radiation treatment as prescribed by the oncologist (dose, place and time)	CONSTRAINTS
-Prescribing of a medicine to a child at an excessive dose	HAZARDS
-Dispensing of a medicine for a child at an excessive dose	HAZARDS
-Administration of a medicine to a child at an excessive dose	HAZARDS
-Patients must not be prescribed incorrect doses of medicines	CONSTRAINTS
-Measures must exist to prevent prescribing of incorrect doses of medicine	CONSTRAINTS
-Treatments must be available to treat patients who receive incorrect doses of medicine	CONSTRAINTS
-Injury or loss of life	LOSSES
-Damage to the vehicle	LOSSES
-Loss of mission	LOSSES
-Loss of customer satisfaction	LOSSES
-Loss of finances	LOSSES
-AV does not maintain a safe distance from vulnerable road users (VRUs) or other stationary or moving objects in the surroundings	HAZARDS
-AV leaves designated path	HAZARDS
-AV violates allowed operating conditions	HAZARDS
-AV behavior is unconfortable for the passengers	HAZARDS
-AV loses control	HAZARDS
-AV must maintain a safe distance from VRUs and other stationary and moving objects in the surroundings	CONSTRAINTS
-AV must adhere to the designated path	CONSTRAINTS
-AV must adhere to the allowed operating limits advised by the traffic rules and ODD limitations	CONSTRAINTS
-AV must provide a confortable experience to the passengers when driving or stationary	CONSTRAINTS
-AV must never lose control	CONSTRAINTS
-Violation of minimum separation rules between the AMR/infrastructure/humans/animals	HAZARDS
-Equipment under unnecessary stress	HAZARDS
-Loss of integrity of communication	LOSSES
-Lack of ability of aircraft to receive and transmit the proper data	HAZARDS
-Enter data with unauthorized modification	HAZARDS
-Loss or significant damage to the aircraft	LOSSES
-Significant damage to other people's property	LOSSES
-Fatalities or injury to persons	LOSSES
-Mission Non-Compliance	LOSSES
-The aircraft violates the minimum safety distance	HAZARDS
-The aircraft loss the communication with base	HAZARDS
-The aircraft have insufficient power available	HAZARDS
-The aircraft loss the flight capability	HAZARDS
-Aircraft should maintain a safe distance from obstacles and notify the operator when reaching the minimum distance	CONSTRAINTS
-The aircraft must maintain constant communication with the base throughout the operation	CONSTRAINTS
-The aircraft must be able to generate enough power to keep the systems running properly	CONSTRAINTS
-Aircraft shall be capable of remaining airborn in a controlled manner throughout the operation	CONSTRAINTS
-Loss of human life or injured people	LOSSES
-Loss or damage of production equipment	LOSSES
-Loss of the well	LOSSES
-Loss of production	LOSSES
-Loss of enviromental integrity	LOSSES
-Indirect monetary losses	LOSSES
-Loss of reputation	LOSSES
-Oil well without control over liquid flows	HAZARDS
-Oil well without control over gas flows	HAZARDS
-Oil well with production flow reduced or interrupted	HAZARDS
-Oil well operate outside of the required pressure envelope	HAZARDS
-Loss of life or serious injury to people	LOSSES
-Damage to the ship or objects outside the ship	LOSSES
-Ship violates minimum separation from other ship	HAZARDS
-: Ship violates minimum separation from any stationary object or underwater object	HAZARDS
-Loss of ship control	HAZARDS
-Ship enters into an unsafe area (low water-depth or stormy area)	HAZARDS
-Catching fire inside the ship	HAZARDS
-Ship must not violate minimum separation from other ship	CONSTRAINTS
-Ship must not violate minimum separation from any stationary object or underwater object	CONSTRAINTS
-If control over the ship is lost, then it must be detected and measures should be taken to regain control over the ship	CONSTRAINTS
-Ship must not enter into an unsafe area (low water-depth or stormy area)	CONSTRAINTS
-The ship must be maintained properly so that the occurrence of fire is prevented	CONSTRAINTS
-Loss of human life / damage to health and wellbeing	LOSSES
-Loss of economic stability	LOSSES
-Loss of functioning democratic society	LOSSES
-The population has an increase in infected cases	HAZARDS
-Inability of companies / organizations to operate normally	HAZARDS
-Overwhelming health system in the nation	HAZARDS
-Lack of essential supply in the nation	HAZARDS
-Social unrest in the nation	HAZARDS
-Discriminations in the nation	HAZARDS
-Loss of Intellectual Property	LOSSES
-Loss of Reputation	LOSSES
-Loss of Mission	LOSSES
-Loss or Damage to components / products	LOSSES
-Loss of Critical Protected Data	LOSSES
-Patient death or life-threatening injury	LOSSES
-Hypoglycemia, with blood glucose below 54 mg/dL	HAZARDS
-Hyperglycemia, with blood glucose above 250 mg/dL	HAZARDS
-Loss of life or injury to people	LOSSES
-Loss or damage to ego vehicle	LOSSES
-Loss of reputation	LOSSES
-Loss of driver comfort	LOSSES
-Ego vehicle leaves its lane	HAZARDS
-Ego vehicle applies hard braking	HAZARDS
-Ego vehicle applies insufficient braking	HAZARDS
-Ego vehicle applies hard acceleration	HAZARDS
-Ego vehicle must not leave the lane unless desired by the driver	CONSTRAINTS
-Ego vehicle must not decelerate at rates greater than 4 m/s^2	CONSTRAINTS
-Ego vehicle must decelerate at rates greater than 0.9 m/s^2	CONSTRAINTS
-Ego vehicle must not accelerate at rates greater than 1 m/s^2	CONSTRAINTS
-Loss of human life - human injury	LOSSES
-Workplace environment is not suitable for human health	HAZARDS
-Workplace ventilation integrity is lost	HAZARDS
-Workplace oxygen levels are not suitable (too low)	HAZARDS
-Workplace methane levels are not suitable (too high)	HAZARDS
-If ventilation turned off, the workplace must be abandoned immediately	CONSTRAINTS
-If ventilation does not maintain oxygen level over 19%, this must be detected, and workers must use self-rescuers and abandon the workplace	CONSTRAINTS
-If ventilation does not maintain methane level below 2%, this must be detected, electricity must be cut off, and workers must follow specific procedures to reduce the methane content	CONSTRAINTS
-If ventilation does not maintain methane level below 3%, this must be detected, electricity must be cut off, and workers must abandon the workplace immediately	CONSTRAINTS
-Damage to reactor	LOSSES
-Centrifuges are damaged by spinning too fast	HAZARDS
-Centrifuges must never spin above maximum speed	CONSTRAINTS
-Loss of life or serious injury to people	LOSSES
-Damage to the vehicle or objects outside the vehicle	LOSSES
-Loss of mission (transportation)	LOSSES
-Loss of customer satisfaction	LOSSES
-Loss of life or serious injury to patient	LOSSES
-Patient’s pain is not relieved (mission loss)	LOSSES
-Loss of life or injury	LOSSES
-Equipment damage	LOSSES
-Environmental contamination	LOSSES
-Loss of power generation (mission loss)	LOSSES
-Loss of life or injury to non-hostile forces	LOSSES
-Loss of mission (e.g. surveillance, attack, etc.)	LOSSES
-Loss of sensitive information	LOSSES
-Loss of or unintended damage to assets/equipment	LOSSES
-Chemical plant releases toxic chemicals into the atmosphere	HAZARDS
-Nuclear power plant releases radioactive materials into environment	HAZARDS
-Vehicles do not maintain safe distance from each other	HAZARDS
-Food products for sale contain pathogens	HAZARDS
-Aircraft violates minimum separation	HAZARDS
-Controlled flight of aircraft into terrain	HAZARDS
-Loss of aircraft control	HAZARDS
-Aircraft airframe integrity is degraded	HAZARDS
-Aircraft environment is harmful to human health	HAZARDS
-Vehicle does not maintain safe distance from nearby objects	HAZARDS
-Vehicle enters dangerous area/region	HAZARDS
-Vehicle exceeds safe operating envelope for environment (speed, lateral/longitudinal forces)	HAZARDS
-Vehicle occupants exposed to harmful effects and/or health hazards	HAZARDS
-Loss of life or serious injury to patient	LOSSES
-Patient’s pain is not relieved	LOSSES
-Loss of protected patient or proprietary hospital information	LOSSES
-Financial loss or loss of hospital reputation	LOSSES
-Patient has opioid overdose	HAZARDS
-Patient has opioid underdose	HAZARDS
-Patient info disclosed to unauthorized parties	HAZARDS
-Loss of life or injury/health	LOSSES
-Environmental loss (release)	LOSSES
-Loss of/damage to plant	LOSSES
-Loss of generation	LOSSES
-Plant releases radioactive material	HAZARDS
-Plant is operated outside limits	HAZARDS
-Plant is shut down	HAZARDS
-Vehicle does not maintain safe distance from nearby objects	HAZARDS
-Chemical plant releases toxic chemicals into the atmosphere	HAZARDS
-Nuclear power plant releases radioactive materials into environment	HAZARDS
-Vehicles do not maintain safe distance from each other	HAZARDS
-Food products for sale contain pathogens	HAZARDS
-Vehicle must maintain safe distance from nearby objects	CONSTRAINTS
-Chemical plant must not release toxic chemicals into the atmosphere	CONSTRAINTS
-Nuclear power plant must not release radioactive materials into environment	CONSTRAINTS
-Vehicles must always maintain safe distances from each other	CONSTRAINTS
-Food products with pathogens must not be sold	CONSTRAINTS
-Loss of life	LOSSES
-Loss of aircraft	LOSSES
-Loss of flight testing performed	LOSSES
-Loss of life or injury	LOSSES
-Damage to aircraft	LOSSES
-Loss of refueling mission	LOSSES
-Aircraft violate minimum separation for refueling	HAZARDS
-Aircraft airframe integrity is degraded	HAZARDS
-Loss of Critical Protected Information (CPI)	LOSSES
-Aircraft CPI Exposed to Unauthorized Individual	HAZARDS
-Train violates minimum separation from other trains	HAZARDS
-The train derails	LOSSES
-The train squeezes at switch	LOSSES
-The train hits obstacles that violated the limit	LOSSES
-The train hits personnel	LOSSES
-The train exceeds speed limit on tie line	HAZARDS
-The train exceeds speed limit of switch P2602	HAZARDS
-The train exceeds speed limit of switch P10	HAZARDS
-Unplanned downtime due to inadequate serviceability	LOSSES
-Financial losses incurred through warranty costs	LOSSES
-Customer dissatisfied	LOSSES
-Service task (maintenance, repair, or diagnostics) introduces subsequent problems	HAZARDS
-Operator takes the wrong action to mitigate the problem	HAZARDS
-Service technician does the wrong repair	HAZARDS
-Operator ignores a service alarm	HAZARDS
-Repair & troubleshooting time exceeds  minutes	HAZARDS
-Scheduled maintenance time exceeds x minutes over first x hours of use	HAZARDS
-Machine must detect problems	CONSTRAINTS
-Machine must decide the operator action required	CONSTRAINTS
-Operating instructions must clearly communicate desired operator action	CONSTRAINTS
-Machine must pin point the correct repair required	CONSTRAINTS
-If machine is unable to pin point the repair required, troubleshooting procedures must identify the correct repair required	CONSTRAINTS
-Adequate diagnostic check points must be provided	CONSTRAINTS
-Service instructions must clearly communicate desired service technician actions	CONSTRAINTS
-Machine must prevent operator alarm fatigue	CONSTRAINTS
-Repair & troubleshooting time must not exceed x minutes	CONSTRAINTS
-Adequate access to perform diagnostic and repair tasks must be provided	CONSTRAINTS
-Service tasks must not disturb unrelated systems or introduce subsequent problems	CONSTRAINTS
-Scheduled maintenance time must not exceed  minutes over first x hours of use	CONSTRAINTS
-Adequate access to perform maintenance must be provided	CONSTRAINTS
-Violation of minimum separation between the robot mobile base and objects (including the orbiter and humans)	HAZARDS
-Unstable robot base	HAZARDS
-Movement of the robot causing injury to humans or damage to the orbiter	HAZARDS
-Conditions that could lead to damage to the robot	HAZARDS
-Conditions that could lead to fire or explosion	HAZARDS
-Contact of human with DMES waterproofing chemical	HAZARDS
-Inadequate orbiter thermal tile protection	HAZARDS
-The manipulator arm is extended while the stabilizer legs are not fully extended	HAZARDS
-Legs extended during movement of robot	HAZARDS
-The manipulator arm must never be extended if the stabilizer legs are not fully extended	CONSTRAINTS
-The mobile base must not move with the stability legs extended	CONSTRAINTS
-The leg controller must ensure the stabilizer legs are fully extended before arm movements are enabled	CONSTRAINTS
-The leg controller must not command a retraction of the stabilizer legs when the manipulator arm is not in a fully stowed position	CONSTRAINTS
-The leg controller must command a deployment of the stabilizer legs before arm movements are enabled; the leg controller must not command a retraction of the stabilizer legs before the manipulator arm is stowed	CONSTRAINTS
-The leg controller must not stop the leg extension until the legs are fully extended	CONSTRAINTS
-loss of life, injury or health compromise	LOSSES
-damage to equipment or infrastructure	LOSSES
-disruption on processing or transport	LOSSES
-stain to reputation	LOSSES
-Equipment or procedure entraps user during processing	HAZARDS
-State or Dynamic leads to damages on physical component	HAZARDS
-Unauthorized user is allowed through	HAZARDS
-Non-recovery from disruption / Recovery into a hazardous state	HAZARDS
-Unauthorized/unconsented disclosure/release of PII/PD	HAZARDS
-Patient is (potentially or actually; same hereafter) injured or killed from radiation overexposure or under-treatment	LOSSES
-Nonpatient is injured or killed by radiation	LOSSES
-Physical injury to a patient or nonpatient not from radiation	LOSSES
-Damage or loss of equipment	LOSSES
-Damage to patient and staff satisfaction or hospital reputation	LOSSES
-Radiation is delivered in the wrong dose (amount, location, or timing), or to the wrong patient	HAZARDS
-Nonpatient is unexpectedly exposed to radiation	HAZARDS
-Any person is exposed to nonradiation materials and energies (e.g., cryogen, noise) at hazardous levels	HAZARDS
-Equipment is subject to stress beyond design	HAZARDS
-Patient or staff is subject to unexpected stress, delays, or urgencies	HAZARDS
-Dosimetrist must know definitively the need for MR image fusion at the start of treatment planning	CONSTRAINTS
-Treatment planning team members must be informed of any deviation from normative practices	CONSTRAINTS
-RT planning must incorporate clearly defined soft tissue boundaries when indicated	CONSTRAINTS
-Evacuation is not applied when required	HAZARDS
-The area is not effectively evacuated	HAZARDS
-The system must perform the evacuation when required	CONSTRAINTS
-The system must perform the evacuation effectively when required	CONSTRAINTS
-An alert or communication system between the Mayor and the Fire Brigade Service must exist	CONSTRAINTS
-The Field Officer must know who replaces the Mayor in a successive or a hierarchical manner	CONSTRAINTS
-AV collision with vulnerable road user (VRU)	LOSSES
-AV gets damaged	LOSSES
-Loss of reputation	LOSSES
-AV does not maintain safe distance to VRU	HAZARDS
-AV leaves the designated demo zone	HAZARDS
-AV does not maintain safe distance to another AV	HAZARDS
-AV does not maintain safe distance to structure	HAZARDS
-AV activates without request during autonomous maneuver	HAZARDS
-AV activates due to incorrect request during autonomous maneuver	HAZARDS
-AV does not respond to requests during autonomous maneuver	HAZARDS
-Controller shall not open Door while train is moving, only when stopped	CONSTRAINTS
-Controller shall not close Door while a passenger is in the doorway	CONSTRAINTS
-Controller shall open Door in an emergency	CONSTRAINTS
-Controller shall open Door when Train is stopped in Station	CONSTRAINTS
-Controller shall report the state of the Door to the next-higher level of control	CONSTRAINTS
-Controller shall allow time for passengers to exit & enter before attempting to close the door	CONSTRAINTS
-The Controller shall warn passengers when the door is about to open or close	CONSTRAINTS
-When the Train is stopped and not in a station and no emergency exists the Controller shall not open the door	CONSTRAINTS
-Aircraft violates criteria for stable approaches	HAZARDS
-Lateral instability	HAZARDS
-Longitudinal instability	HAZARDS
-Energy in excess	HAZARDS
-Lack of energy	HAZARDS
-Loss of control	HAZARDS
-Controlled Flight Into Terrain (CFIT)	HAZARDS
-Aircraft violates minimum separation from airspace or other aircraft	HAZARDS
-Low fuel level after missed approaches	HAZARDS
-Aircraft must maintain criteria for stable approaches	HAZARDS
-Aircraft must be within lateral navigation limits	HAZARDS
-If lateral navigation is off limits, the PM must detect and inform	HAZARDS
-Aircraft must be longitudinally stable	HAZARDS
-if the aircraft is longitudinal unstable before landing, the PF must GA	HAZARDS
-Aircraft must keep adequate amount of energy	HAZARDS
-if the shaker is activated, the PF must GA	HAZARDS
-Aircraft must keep adequate amount of energy	HAZARDS
-If the aircraft is more than 500ft above recommended al1tude at the middle marker or more than 300ft above at final marker, the PF must GA	HAZARDS
-Flight must be controlled	HAZARDS
-Pilots need to be trained to recover the control of their aircraft, including CRM procedures	HAZARDS
-The patient is injured or killed in the process of MRI simulation	LOSSES
-A nonpatient is injured or killed in the process of MRI simulation	LOSSES
-The patient is injured or killed from subsequent treatment due to inaccurate MRI simulation	LOSSES
-Damage or loss of equipment	LOSSES
-Ferromagnetic object exposed to a large magnetic field	HAZARDS
-Electronic, electrical, and mechanical device exposed to large magnetic or RF fields	HAZARDS
-Human or equipment exposure to cryogen or quench gas	HAZARDS
-Human exposure to loud noise	HAZARDS
-Human overexposure to large magnetic field or RF field	HAZARDS
-Simulation acquired is wrong patient, wrong location, wrong iso, or with poor immobilization	HAZARDS
-Simulation acquired contains artifacts or otherwise poor image quality, or not transmided for RT planning	HAZARDS
-Spacecraft lost	LOSSES
-Spacecraft has inadequate heat and power	HAZARDS
-Spacecraft destroyed while landing on planet	HAZARDS
-Spacecraft hit by space debris	HAZARDS
-Loss of life or injury to persons	LOSSES
-Environmental losses	LOSSES
-Loss or disclosure of sensitive information	LOSSES
-Loss or damage to public or private properties	LOSSES
-Loss or damage to the vehicle	LOSSES
-Loss of ground support operation	LOSSES
-Mission loss or degradation	LOSSES
-Damage of the structural integrity of the vehicle or payload	HAZARDS
-Privation to track/communicate to the vehicle or payload	HAZARDS
-Permanence of personnel in environment with energetic material, toxic material or with pressure vessels	HAZARDS
-Vehicle or payload out of flight route	HAZARDS
-Premature ignition of vehicle stages at the launch rail	HAZARDS
-Leak of sensitive information	HAZARDS
-Inadequate or unrealized launch facilities maintenance	HAZARDS
-At the launch rail, vehicle stages must be prevented from igniting before planned, even when subjected to commands or electric discharges	CONSTRAINTS
-In the event of an unintended ignition, the vehicle must remain fixed to the launching rail, avoiding an unplanned route	CONSTRAINTS
-Vehicle stages and interfaces must be designed so that, in the event of an unintended ignition, they do not result in the vehicle explosion	CONSTRAINTS
-Death or injury to persons	LOSSES
-Damage to the aircraft	LOSSES
-Damage to airport infra-structure and/or proximities	LOSSES
-Aircraft does not stop before the runway end	HAZARDS
-Aircraft veers to a runway side	HAZARDS
-Abnormal landing zone contact	HAZARDS
-Slight physical injuries (crew, soldiers in the cargo)	LOSSES
-Loss of mission (opera4onal mission disrupted)	LOSSES
-Damage to helicopter (material & financial losses)	LOSSES
-Operate the helicopter in accordance with 4th SFHR procedures	CONSTRAINTS
-Choose the landing mode during the pre-flight briefing	CONSTRAINTS
-Manage the flight path for a safe landing (speed, roll,…, drift) in manual mode	CONSTRAINTS
-Perform an alternate visual sweep inside and outside to control the trajectory	CONSTRAINTS
-Maintain external visual references until contact	CONSTRAINTS
-Initiate a go around if visual references are lost	CONSTRAINTS
-Request (complete) marking of the landing zone before flight	CONSTRAINTS
-Choose the landing mode during the pre-flight briefing	CONSTRAINTS
-Ensure effective Crew Resources Management (collective SA)	CONSTRAINTS
-Perform an alternate visual sweep inside and outside the cockpit to precisely control the helicopter’s trajectory during landing is correct	CONSTRAINTS
-Ensure security (look at potential threats outside and on IR camera screen)	CONSTRAINTS
-Announce the evolution of flight parameters (including radio-altimeter height, vertical speed, pitch angle, available power, …)	CONSTRAINTS
-Monitor the IR camera on board	CONSTRAINTS
-Ensure security (look at potential threats outside and on IR camera screen)	CONSTRAINTS
-Choose and prepare an adequate landing zone for airplanes and helicopter (basic requirements of commando units)	CONSTRAINTS
-Develop special forces operating procedures for safe landing in dust, specific to H225M helicopter (day-time and night-time)	CONSTRAINTS
-Define policies for the use of the two landing modes in operation	CONSTRAINTS
-Monitor the crew’s skills for the two landing modes	CONSTRAINTS
-Provide sufficient aircrew training and aerial activity	CONSTRAINTS
-Train markers for the LZ marking	CONSTRAINTS
-Establish public contract with maintenance companies and manufacturers	CONSTRAINTS
-Ensure technical availability of the helicopters that allow units to comply with their “operational contract” mandated by Army Special Forces Command and Army Light Aviation Command	CONSTRAINTS
-Define the “operational contract” that mandate the contribution of each army branch and unit	CONSTRAINTS
-Provide the resources needed to implement the objectives defined in the “operational contract”	CONSTRAINTS
-Control the ability of the armed forces to carry out their missions	CONSTRAINTS
-Death or Human injury	LOSSES
-Damage to or loss of aircraft	LOSSES
-Unable to Complete Mission	LOSSES
-Flying to Close to other aircraft/out of position	HAZARDS
-Violation of Altitude/clear ance from terrain	HAZARDS
-Unable to evade enemy threats	HAZARDS
-Msn critical systems not functional when required	HAZARDS
-A/C must maintain minimum safe separation distance	CONSTRAINTS
-Must have minimum mission critical safety systems functional to attempt AR	CONSTRAINTS
-A/C must maintain minimum safe altitude limits	CONSTRAINTS
-Must have minimum mission critical safety systems functional for terrain flight	CONSTRAINTS
-Must maintain integrity of mission critical warning and deterrence systems	CONSTRAINTS
-Msn critical systems must be available when required to perform primary msn	CONSTRAINTS
-Loss of life/injury	LOSSES
-Loss of or damage to UAV aircraft	LOSSES
-Loss of mission	LOSSES
-UAV too close to ground/building/person	HAZARDS
-UAV violates minimum separation requirements	HAZARDS
-UAV does not complete mission	HAZARDS
-UAV departs controlled flight	HAZARDS
-UAV departs apron, taxiway, or runway during ground operations	HAZARDS
-Loss of UAV airframe integrity	HAZARDS
-Wiring must be designed to withstand the flight environment, and inspected before flight	CONSTRAINTS
-The VMS must be programmed with limits at all flight conditions	CONSTRAINTS
-The aeromodel must be validated for the entire flight envelope and flight configurations to include abnormal configurations	CONSTRAINTS
-A secondary attitude indicator must be included in the UAV design as a backup to the main attitude indicator. The VMS must receive feedback of a vacuum pump failure so that it can switch to the secondary attitude feedback	CONSTRAINTS
-After any control surface related maintenance, a controls check must be accomplished. A controls check must also be accomplished during preflight.Consider different connectors for the different directions so that it cannot physically be connected backwards	CONSTRAINTS
-Patient injured or killed from radiation exposure	LOSSES
-Staff injured or killed from radiation exposure	LOSSES
-Physical injury to patient or staff during treatment (not from RT)	LOSSES
-Damage to equipment	LOSSES
-Damage to patient or staff satisfaction, or hospital reputation	LOSSES
-Wrong dose, location, or patient	HAZARDS
-Staff is unexpectedly exposed to radiation	HAZARDS
-Persons are subjected to the possibility of non-radiological injury	HAZARDS
-Equipment is subject to unexpected stress	HAZARDS
-Workflow is subject to unexpected stress, delays in starting treatments	HAZARDS
-Two or more vehicles collide	LOSSES
-Vehicle collides with non-fixed obstacle	LOSSES
-Vehicle crashes into terrain	LOSSES
-Vehicle occupants injured without vehicle collision	LOSSES
-Vehicle does not maintain safe distance from nearby vehicles	HAZARDS
-Vehicle does not maintain safe distance from terrain and other obstacles	HAZARDS
-Vehicle occupants exposed to harmful effects, and/or health hazards	HAZARDS
-Vehicle enters uncontrollable or unrecoverable state	HAZARDS
-Unwanted or Excessive Positive Longitudinal Motion	HAZARDS
-Unwanted or Excessive Negative Longitudinal Motion	HAZARDS
-Unwanted or Excessive Lateral Motion	HAZARDS
-PATH PLANNING MUST INCLUDE THE ABILITY TO PASS THROUGH AN INTERSECTION IN MOVEMENT CALCULATION BEFORE MOVING FORWARD INTO AN INTERSECTION	CONSTRAINTS
-SENSOR PROCESSING MUST HAVE CONFIDENCE AND REDUCE FALSE POSITIVE IN DISTINGUISHING TRUE MOVING TARGET	CONSTRAINTS
-SENSOR PROCESSING MUST HAVE FOLIAGE AS A CLASS IN MACHINE LEARNING LIST	CONSTRAINTS
-Level 1 SMS audit findings for non/compliance	LOSSES
-Poor safety performance	LOSSES
-SMS is not designed according to standards	HAZARDS
-SMS is not implemented according to standards	HAZARDS
-SMS is not suitable for the organization	HAZARDS
-SMS is not effective	HAZARDS
-SMS shall be designed according to standards	CONSTRAINTS
-SMS shall be implemented according to standards	CONSTRAINTS
-SMS shall be suitably scaled for the organization	CONSTRAINTS
-SMS shall be effective	CONSTRAINTS
-Loss of life or injury to people	LOSSES
-Loss of or damage to aircraft	LOSSES
-Loss of or damage to service vehicle/equipment	LOSSES
-Loss of or damage to infrastructure components	LOSSES
-Loss of transportation	LOSSES
-Aircraft violates the minimum separation from other aircrafts during operations on the ground	HAZARDS
-Aircraft violates the minimum separation from service vehicles during operations on the ground	HAZARDS
-Aircraft comes too close to service equipment components during operations on the ground	HAZARDS
-Aircraft comes too close to airport infrastructure components during operations on the ground	HAZARDS
-Airframe integrity is lost during operations on the ground	HAZARDS
-Service vehicle/equipment frame integrity is lost during operations on the ground	HAZARDS
-Airport infrastructure component integrity is lost during operations	HAZARDS
-Human physical integrity is lost during operations	HAZARDS
-Loss of life/serious injury	LOSSES
-Loss of personal identifiable information (PII)	LOSSES
-Loss of credibility in the air transportation industry	LOSSES
-Mission delay	LOSSES
-Violation of minimum/maximum altitude	HAZARDS
-Violation of minimum distance to other aircraft	HAZARDS
-Uncontrolled aircraft	HAZARDS
-Aircraft flying off the route specified at flight plan	HAZARDS
-Unauthorized access to aircraft equipment (electronic and physical)	HAZARDS
-Unable to dispatch aircraft	HAZARDS
-The flight crew must never violate predetermined minimum/maximum altitude	CONSTRAINTS
-The flight crew must never violate the minimum distance to other aircraft	CONSTRAINTS
-The flight crew must have control of the aircraft all the time	CONSTRAINTS
-The aircraft must never fly off the route specified at the flight plan	CONSTRAINTS
-No access to aircraft equipment (electronic or physical) shall be allowed without authorization	CONSTRAINTS
-Aircraft must be dispatched	CONSTRAINTS
-Loss of Life / Injury (suffocation, eye/ear irritation etc.)	LOSSES
-Loss/damage to aircraft and its equipment	LOSSES
-Mission Interruption or delay	LOSSES
-High/Low Air Temperature	HAZARDS
-High/Low Air Pressure	HAZARDS
-Inappropriate Air Transport (bleed and distribution)	HAZARDS
-Unacceptable Air Contamination	HAZARDS
-H2O/Ice (other) Accumulation	HAZARDS
-The AMS must not let the air temperature reach values out of the prescribed limits for the destination environment	CONSTRAINTS
-The AMS must not let the air pressure reach values out of the prescribed limits for thedestination environment	CONSTRAINTS
-The AMS must not extract air from from the inappropriate sources at the inappropriatetime	CONSTRAINTS
-The AMS must not transport air to inappropriate environments at inappropriate times	CONSTRAINTS
-The AMS must not distribute air inside the aircraft which is unacceptably contaminated	CONSTRAINTS
-The AMS must avoid H2O/Ice accumulation	CONSTRAINTS
-Aircraft (including both manned and unmanned systems) in the air are damaged or destroyed	LOSSES
-Personnel on the ground are injured or killed	LOSSES
-Structures on the ground are damaged or destroyed	LOSSES
-Testing or flight operations are unable to be conducted	LOSSES
-Collision of a manned and unmanned aircraft	HAZARDS
-Collision of two unmanned aircraft	HAZARDS
-Debris from an aircraft impacts another aircraft	HAZARDS
-Unmanned aircraft loses controlled flight capability	HAZARDS
-Collision of an unmanned aircraft with a person on the ground	HAZARDS
-Debris from an unmanned aircraft strikes a person on the ground	HAZARDS
-Collision of an unmanned aircraft with a structure on the ground	HAZARDS
-Debris from an unmanned aircraft strikes a structure on the ground	HAZARDS
-Unmanned aircraft testing unnecessarily interferes with flight operations	HAZARDS
-- Passenger falls out of moving train	LOSSES
-Passengers not able to escape train during emergency	LOSSES
-Passenger steps off stopped train not at platform	LOSSES
-Doors close on passenger in doorway	LOSSES
-Doors open when the train is moving	HAZARDS
-Doors close while person in the doorway	HAZARDS
-Doors stuck closed during emergency	HAZARDS
-Doors stuck open	HAZARDS
-Doors open when not aligned to platform	HAZARDS
-Doors shall remain open at station when train is completely stopped and aligned with platform	CONSTRAINTS
-Doors shall remain closed when train is moving	CONSTRAINTS
-Doors shall remain open when someone is in the doorway	CONSTRAINTS
-Doors shall open in an emergency	CONSTRAINTS
-Firefighter death or serious injury	LOSSES
-Civilian death or serious injury	LOSSES
-Preventable damage to property	LOSSES
-Firefighter exposed to dangerous levels of heat, smoke, and exertion	HAZARDS
-Civilians exposed to dangerous levels of heat or smoke	HAZARDS
-Uncontrolled spread of fire to property	HAZARDS
-Firefighters must avoid exposure to heat, smoke, or exertion except where the risk is deemed necessary to protect civilians or property	CONSTRAINTS
-Firefighters must attempt too remove civilians from areas with dangerous levels of heat or smoke (search & rescue)	CONSTRAINTS
-Firefighters must control fire spread through suppression and ventilation activities	CONSTRAINTS
-Loss of or damage to the aircraft or equipment on the aircraft	LOSSES
-Serious injury or fatality to personnel	LOSSES
-Inability to complete the mission	LOSSES
-Violation of minimum separation standards	HAZARDS
-Inability to control the aircraft	HAZARDS
-Loss of airframe integrity	HAZARDS
-The aircraft must maintain minimum separation from potential sources of collision	CONSTRAINTS
-The aircraft must be controllable by the pilot or piloting function in an OPV (optionally piloted vehicle) at all times	CONSTRAINTS
-Airframe integrity must not be lost during flight	CONSTRAINTS
-infant critical safety formulas and products are designed and produced in an unsafe way	HAZARDS
-Infants are fed with unsafe critical food	HAZARDS
-Critical baby food is given in an unsafe way	HAZARDS
-Infants do not receive safe critical food for their healthy development	HAZARDS
-Infants do not receive adequate treatment to recover from damage caused by lack of critical food	HAZARDS
-Infant formulas and products must be designed in a way that will give infants who consume them good health along their growth period	CONSTRAINTS
-Infant formulas and products must be produced in a way that will give infants who consume them good health along their growth period	CONSTRAINTS
-Food products for infants which are on the shelf must be safe and effective	CONSTRAINTS
-Babies must be fed infant nutrition products in a beneficial way for their health and their normal development	CONSTRAINTS
-Babies must be fed infant nutrition products in a safe and effective manner	CONSTRAINTS
-When babies are fed non-safe critical food, appropriate medical measures and protocols must be take	CONSTRAINTS
-patient is killed or seriously injured	LOSSES
-System reports fake patient’s results to the user	HAZARDS
-The system reports the patient’s required results from the controller too late	HAZARDS
-CSCP provides send impedance values command when ITMS is not connected	HAZARDS
-correct patient results must be reported to the Audiologist	CONSTRAINTS
-Patient results must be reported to the Audiologist in a useable time frame	CONSTRAINTS
-Erroneous arrival of product	LOSSES
-Erroneous payment to supplier	LOSSES
-Product loss	LOSSES
-Product integrity compromised	LOSSES
-Payment loss	LOSSES
-Inability to initiate procurement process	HAZARDS
-Inability to perform pysical transport	HAZARDS
-Inability to comfirm product integrity	HAZARDS
-Inability to pay correctly	HAZARDS
-Absence of warning when vehicle moves out of lane, resulting in a collision	HAZARDS
-No corrective action provided by the system when the car moves out of lane, leading to a collision	HAZARDS
-Corrective action provided when it isn’t required, resulting in a collision	HAZARDS
-Corrective action (torque to the steering) provided in the wrongdirection, causing a collision	HAZARDS
-The LKA system shall warn the driver when the vehicle is switching lanes without a turn-indicator	CONSTRAINTS
-The LKA system shall provide corrective action if the driver doesn’t respond to the warning signs and the vehicle continues to move out of lane	CONSTRAINTS
-The LKA system must not allow the vehicle switch to lanes without the correct turn-indicator being actuated	CONSTRAINTS
-The LKA system must not perform corrective action if the correct turn-indicator is actuated (if the direction of deviation is the same as the turn-indicator)	CONSTRAINTS
-The LKA system must verify that corrective action has beenperformed either from its inputs or feedback from the electrical steering system	CONSTRAINTS
-Human loss due to a vehicle collision	LOSSES
-Violation of minimal safety distance between the Tesla and the truck	HAZARDS
-The safety control structure must prevent the violation of minimal distance between a vehicle and a truck	CONSTRAINTS
-Flying without enough fuel on board	HAZARDS
-The air company dispatcher must be supply an flight plan with enough fuel to the enroute plus endurance flight	CONSTRAINTS
-Pilots must be assure that the aircraft have enough fuel to the enroute plus reserve fly of 30 minutes at 1,500 feet above the aerodrome	CONSTRAINTS
-Air Traffic Control must take measures to avoid that the aircraft fly without enough fuel on board	CONSTRAINTS
-injury, loss of life, damage of aircraft or property	LOSSES
-Maneuvering the aircraft outside the safety envelope (undesired aircraft state)	HAZARDS
-Violating separation from other aircraft, terrain, obstacles	HAZARDS
-The aircraft must be maneuvered within the safety envelope	CONSTRAINTS
-Separation from other aircraft, terrain, obstacles must be maintained	CONSTRAINTS
-The FI must assist the trainee in enforcing these safety constraints	CONSTRAINTS
-The FI must take over the control to enforce these safety constraints if necessary	CONSTRAINTS
-Aircraft crash against habited houses	HAZARDS
-Aircraft take off under irregular conditions	HAZARDS
-The aircraft must not crash against habited houses	CONSTRAINTS
-The aircraft must not take off under irregular conditions	CONSTRAINTS
-Runway Incursion: Presence of an Aircraft, Vehicle or Person on the protected area of a surface designated for the landing and take-off of Aircraft when an Aircraft is landing or taking-off	HAZARDS
-Conflicting trajectories that lead to a loss of safe separation margin between Aircraft, Vehicles or People	HAZARDS
-The HCS shall prevent the presence of an Aircraft, Vehicle or Person on the protected area when an Aircraft is landing or taking-off	CONSTRAINTS
-The HCS shall prevent the presence of an Aircraft, Vehicle or Person on the protected area when an Aircraft is in a position to land or take-off	CONSTRAINTS
-The HCS shall prevent trajectories that lead to a loss of safe separation margin between Aircraft, Vehicles or People	CONSTRAINTS
-The fully automated vehicle collided into an object moving in front on a highway	LOSSES
-The fully automated vehicle lost steering control because it received wrong ego longitudinal torque	HAZARDS
-The fully automated vehicle must receive correct data all the time while driving on a road	CONSTRAINTS
-Loss of life or serious injury to patient	LOSSES
-Patient’s pain is not relieved	LOSSES
-Loss of protected patient or proprietary hospital information	LOSSES
-Financial loss or loss of hospital reputation	LOSSES
-Opioid overdose	HAZARDS
-Opioid under-dose	HAZARDS
-Unauthorized access to hospital/patient information	HAZARDS
-IPMS must send STOP command to PCA when patient has been given too much opiod	CONSTRAINTS
-IPMS must not sent STOP command unless an emergency condition is indicated	CONSTRAINTS
-IPMS must sent STOP command within TBD seconds of emergency	CONSTRAINTS
-Two or more Vehicles Collide	LOSSES
-Vehicle Collides with Pedestrian(s)	LOSSES
-Vehicle Occupant Injury	LOSSES
-Unintended Park Disengagement	HAZARDS
-Vehicle Roll Away from Not Engaging Park	HAZARDS
-Unintended Change of Direction	HAZARDS
-Unintended Propulsion	HAZARDS
-Loss or major damage to aircraft	LOSSES
-One or more fatalities or significant injuries	LOSSES
-Violation of minimum separation requirements	HAZARDS
-Lack of aircraft control	HAZARDS
-Continuously monitor quality control	CONSTRAINTS
-Ensure adequate training of UH-60MU maintenance personnel	CONSTRAINTS
-Ensure proper and timely UH-60MU inspections	CONSTRAINTS
-Ensure adequate UH-60MU program supervision	CONSTRAINTS
-Provide maintenance personnel with lessons-to-be-learned from all platform accident summaries	CONSTRAINTS
-Multiple fatalities	LOSSES
-Loss of aircraft	LOSSES
-Loss of mission	LOSSES
-Smoke inside the cabin	HAZARDS
-Uncontrolled fire on board	HAZARDS
-Unnecessary loss of relevant functions	HAZARDS
-There shall never be smoke inside the cabin	CONSTRAINTS
-There shall never be uncontrolled fire on board	CONSTRAINTS
-No relevant function shall be lost when not required	CONSTRAINTS
-Multi-vessel collision (OSV-OSV, OSV-Target Vessel)	LOSSES
-OSV collision with external structure (static, dynamic)	LOSSES
-OSV running aground (shore or ocean floor)	LOSSES
-Loss of minimum separation	HAZARDS
-Loss of OSV Control	HAZARDS
-Train collides with the front train, persons or other obstacles on the track	LOSSES
-Train derails when it moves on a track	LOSSES
-Passenger is hurt when he transfer between a train door and a platform screen door (PSD)	LOSSES
-When the train is running, the passengers fall outside the car	LOSSES
-Passengers were hurt in the passenger door closing process	LOSSES
-The passengers were caught in the middle of the door and the door fell off the platform or the train starts to drag the passengers, causing passengers casualties	LOSSES
-Train departures while door has not been closed completely	HAZARDS
-The train did not stop at the parking screen window, open the door	HAZARDS
-The train in the process of moving, and open the door	HAZARDS
-When passengers get on or off, the door is closed	HAZARDS
-Operations’ certification is suspended	LOSSES
-Safety events lead to losses beyond acceptable limits	LOSSES
-SMS design flaws	HAZARDS
-Large gap between design & implementation of SMS	HAZARDS
-SMS shall be designed according to standards and address operation, monitoring and improvement of all SMS processes	CONSTRAINTS
-Gap between SMS design and implementation shall be maintained under a predetermined threshold	CONSTRAINTS
-Injuries or property damage resulting from the operation of UAS	LOSSES
-Unsafe separation from terrain / objects on ground during controlled flight	HAZARDS
-Uncontrolled flight over congested area	HAZARDS
-Unsafe separation from other flying objects during controlled flight	HAZARDS
-Aircraft violate minimum separation with other aircraft	HAZARDS
-Aircraft loses its control or loses airframe integrity	HAZARDS
-Aircraft performs controlled maneuver into ground or into obstacles on ground	HAZARDS
-Aircraft on the ground comes too close to other objects or leaves the paved area	HAZARDS
-Aircraft enters a runway with no clearance	HAZARDS
-Aircraft must maintain separation with other aircraft	CONSTRAINTS
-Aircraft must maintain its control and maintain airframe integrity	CONSTRAINTS
-Aircraft must maintain separation with ground or obstacles on ground	CONSTRAINTS
-Aircraft on ground must maintain separation with other objects and must not leave the paved area	CONSTRAINTS
-Aircraft must not enter a runway without clearance	CONSTRAINTS
-Loss of life and injury	LOSSES
-Economic loss	LOSSES
-Vehicle does not maintain safe distance from nearby vehicles	HAZARDS
-Vehicle does not maintain safe distance from terrain and other obstacles	HAZARDS
-Vehicle occupants exposed to harmful effects and/or health hazards	HAZARDS
-People die or get injured from road crashes	LOSSES
-Property damage from road crashes	LOSSES
-Vehicle (driven by human, automation or in cooperation) violates minimum safety distance to objects, road users, vehicles, etc	HAZARDS
-Vehicle (driven by human, automation or in cooperation) leaves the roadway	HAZARDS
-Vehicle must not violate minimum safety distance to objects, road users, vehicles, etc	CONSTRAINTS
-Vehicle must not leave the roadway	CONSTRAINTS
-Death or serious injury to rider or operator	LOSSES
-Significant devaluation of Acme stock	LOSSES
-Significant Damage to Smart Coaster	LOSSES
-Loss of Acme Intellectual Property	LOSSES
-Loss of company reputation	LOSSES
-Loss of consumer (rider) PII	LOSSES
-Rider or operator exposed to dangerous physiological conditions	HAZARDS
-Rider unsecure during ride operations	HAZARDS
-Smart Coaster operated outside of established parameters	HAZARDS
-Intellectual Property exposed to unauthorized individuals	HAZARDS
-Company takes actions inconsistent with stated values	HAZARDS
-Consumer (rider) PII exposed to unauthorized individuals	HAZARDS
-Smart coaster fails to deliver calculated rider experience	HAZARDS
-Worker in close proximity to track or car while ride in motion	HAZARDS
-Loss of A/C	LOSSES
-Injury of passenger and crew	LOSSES
-Flight in airspace contaminated by VA	HAZARDS
-A/C not compliant with airworthiness requirements	HAZARDS
-Two or more vehicles collide	LOSSES
-Vehicle collides with non-fixed obstacle	LOSSES
-Vehicle crashes into terrain	LOSSES
-Vehicle occupants injured without vehicle collision	LOSSES
-Vehicle does not maintain safe distance from nearby vehicles	HAZARDS
-Vehicle does not maintain safe distance from terrain and other obstacles	HAZARDS
-Vehicle occupants exposed to harmful effects and/or health hazards	HAZARDS
-Vehicle must maintain safe distance from nearby vehicles	CONSTRAINTS
-Vehicle must maintain safe distance from terrain and other obstacles	CONSTRAINTS
-Vehicle must not expose occupants to harmful effects and/or health hazards	CONSTRAINTS
-Shifter Control Module must provide range command when driver selects new range	CONSTRAINTS
-Shifter Control Module must provide new range command once current range becomes unavailable	CONSTRAINTS
-Shifter Control Module must not provide range command without driver new range selection	CONSTRAINTS
-Shifter Control Module must not provide range command when that range is unavailable	CONSTRAINTS
-Shifter Control Module must not provides range commands that are inconsistent	CONSTRAINTS
-Two or more vehicles collide	LOSSES
-Vehicle collides with non-fixed obstacle	LOSSES
-Vehicle crashes into terrain	LOSSES
-Vehicle occupants injured without vehicle collision	LOSSES
-Vehicle does not maintain safe distance from nearby vehicles	HAZARDS
-Vehicle does not maintain safe distance from terrain and other obstacles	HAZARDS
-Vehicle occupants exposed to harmful effects and/or health hazards	HAZARDS
-SBW must provide parking force when driver leaves the vehicle	CONSTRAINTS
-SBW must provide parking force when vehicle is moving (>**km/h)	CONSTRAINTS
-SBW must provide parking force soon (<**sec) after needed	CONSTRAINTS
-SBW stops must provide parking by diver get on the vehicle	CONSTRAINTS
-Aircraft violate minimum separation (LOS or loss of separation, NMAC or Near midair collision)	HAZARDS
-Aircraft enters uncontrolled state	HAZARDS
-Aircraft performs controlled maneuver into ground (CFIT, controlled flight into terrain)	HAZARDS
-Aircraft must remain at least TBD nautical miles apart en route	CONSTRAINTS
-Aircraft position, velocity must remain within airframe manufacturer defined flight envelope	CONSTRAINTS
-Aircraft must maintain positive clearance with all terrain (This constraint does not include runways and taxiways)	CONSTRAINTS
-UAS operations shall not lead to loss of minimum separation requirements	CONSTRAINTS
-UAS operations shall not induce or contribute to a controlled flight into terrain maneuver	CONSTRAINTS
-UAS operations shall not induce or contribute to loss of aircraft controlled flight	CONSTRAINTS
-Vehicle occupants are injured during operation	LOSSES
-Vehicle is damaged (economic loss)	LOSSES
-Loss of customer preference/ brand loyalty	LOSSES
-Vehicle occupants experience harmful conditions during vehicle operation	HAZARDS
-Vehicle does not maintain minimum separation against other moving bodies	HAZARDS
-Vehicle does not maintain minimum separation against static bodies	HAZARDS
-Vehicle is difficult to operate	HAZARDS
-Vehicle equipment operated beyond limits (experience excessive wear and tear)	HAZARDS
-Minimum assistance (TBD) Nm shall always be ensured when driver executes a steering maneuver	CONSTRAINTS
-High assistance shall not be provided when vehicle speed is high	CONSTRAINTS
-Assistance shall be provided within TBD ms of steering command is received	CONSTRAINTS
-Assistance shall not be interrupted while steering command is being received	CONSTRAINTS
-Minimum Assistance TBD [Nm] shall be ensured when vehicle speed is below TBD [kph]	CONSTRAINTS
-Assistance shall change accordingly with the range of vehicle speed and efforts defined for the vehicle architecture	CONSTRAINTS
-Assistance shall stop within TBD [ms] after steering command stops being requested by the driver	CONSTRAINTS
-Assistance shall be provided according to vehicle speed and assistance curves within TBD [ms] of driver initiating a steering command	CONSTRAINTS
-Loss of control on ground	LOSSES
-Loss of control in the air	LOSSES
-Next landing with some gear partially retracted	LOSSES
-Severe braking	HAZARDS
-Late or no decision to abort	HAZARDS
-Flight controls misuse during takeoff run	HAZARDS
-Blown tire procedure not followed	HAZARDS
-Mistaken flight controls use during rotation	HAZARDS
-PIO (Pilot Induced Oscillation)	HAZARDS
-Landing gear retraction with blown tire	HAZARDS
-The takeoff must be aborted at the first sign of loss of directional control	CONSTRAINTS
-Brakes cannot be applied severely when aborting with strong crosswind	CONSTRAINTS
-Directional deviations must be corrected smoothly and continuously	CONSTRAINTS
-Yawing at brakes release must be counteracted quickly	CONSTRAINTS
-Side stick command should be applied to the side of the wind after releasing the brakes	CONSTRAINTS
-Side stick command must be gradually reduced as the aircraft gains speed	CONSTRAINTS
-After rotation, the skid angle must be reduced to keep wings leveled	CONSTRAINTS
-The transition of primary flight controls in the rotation should be performed smoothly and continuously	CONSTRAINTS
-The procedure for landing with a blown tire must be completely followed	CONSTRAINTS
-When the bursting of a tire at high speed is suspected and the pilot decides to continue, the landing gear must not be retracted	CONSTRAINTS
-Injury or loss of life	LOSSES
-Damage to equipment	LOSSES
-Aircraft is operated when hazardous FLS is installed	HAZARDS
-Aircraft component is powered up when hazardous FLS is installed	HAZARDS
-Aircraft must not be operated when hazardous FLS is installed	CONSTRAINTS
-Aircraft component must not be powered up when hazardous FLS is installed	CONSTRAINTS
-Operating Unit cannot meet operational requirements or commitments	LOSSES
-Violation of USCG Financial Management Laws and/or policies	LOSSES
-Commitments or obligations are not in line with USCG financial policy	HAZARDS
-Commitments or obligations are recorded in excess of funding limitations	HAZARDS
-Operating unit has missing and/or inoperable equipment, services, or supplies; or lacks qualification	HAZARDS
-USCG contracts are executed prior to sufficient funds being appropriated or committed	HAZARDS
-Patient injured or killed due to radiation	LOSSES
-Non-patient injured or killed due to radiation	LOSSES
-Damage to equipment	LOSSES
-Death or injury of patient or non-patient not due to radiation	LOSSES
-Wrong radiation delivered	HAZARDS
-Staff is unnecessarily exposed to radiation	HAZARDS
-Equipment subject to unnecessary stress	HAZARDS
-Persons subjected to the possibility of nonradiation injury	HAZARDS
-Patient suffers radiological injury due to over-radiation	LOSSES
-Patient’s cancer advances due to under-radiation	LOSSES
-Patient suffers physical, non-radiological injury	LOSSES
-Staff suffers injury (radiological or physical)	LOSSES
-Persons subject to non-radiological injuries	HAZARDS
-Patient receives inappropriate treatment	HAZARDS
-Patient does not receive treatment	HAZARDS
-Non-patient receives radiation	HAZARDS
-During a rejected takeoff the aircraft departs runway due to high thrust caused by a thrust control malfunction	LOSSES
-Engine remains stuck at high thrust during a rejected takeoff	HAZARDS
-When the aircraft is on the ground during takeoff or landing, and fuel flow is stuck high, when the pilot moves Throttle (TLA) to the idle, then automatically command an engine shutdown	CONSTRAINTS
-If a TCM event is detected disable engine starting	CONSTRAINTS
-Prevent false TCM detection during normal transient operation throughout the flight envelope	CONSTRAINTS
-Shutdown armed is true if air-ground switch is  and throttle (TLA) is at or below idle	CONSTRAINTS
-If a TCM event is detected select alternate control law, if the TCM event persists and shutdown arm is true shutdown the engine	CONSTRAINTS
-TCM Protection activates causing inadvertent engine shutdown	HAZARDS
-Two or more vehicles collide	LOSSES
-Vehicle collides with non-fixed obstacle	LOSSES
-Vehicle crashes into terrain	LOSSES
-Vehicle occupants injured without vehicle collision	LOSSES
-Vehicle does not maintain safe distance from nearby vehicles	HAZARDS
-Vehicle does not maintain safe distance from terrain and other obstacles	HAZARDS
-Vehicle enters uncontrollable or unrecoverable state	HAZARDS
-Vehicle occupants exposed to harmful effects and/or health hazards	HAZARDS
-A pair of controlled aircraft violate minimum separation standards (LOS)	HAZARDS
-Aircraft enters unsafe atmospheric region	HAZARDS
-Aircraft enters uncontrolled state	HAZARDS
-Aircraft enters unsafe attitude	HAZARDS
-Aircraft enters a prohibited area	HAZARDS
-Failure on RED_PRE	HAZARDS
-Failure on RED_A	HAZARDS
-Failure on RED_A6	HAZARDS
-Failure on RED_B	HAZARDS
-Failure on RED_C	HAZARDS
-Failure on RED_D	HAZARDS
-Failure on actuation command	HAZARDS
-Ensure the correct communication with the IS to activate the pre-flight event	CONSTRAINTS
-The software must receive the NAV_ON to initialize the flight time	CONSTRAINTS
-The ignition of the second rocket stage (2E) must be detected	CONSTRAINTS
-The separation of the first rocket stage (1E) must be detected	CONSTRAINTS
-The burnout of 2E must be detected	CONSTRAINTS
-The burnout of 3E must be detected	CONSTRAINTS
-Verify if the channels are actuated	CONSTRAINTS
-Patient harmed as a result of hospital care	LOSSES
-Patient’s lung is harmed while in the hospital for a procedure to biopsy a lung nodule	LOSSES
-Procedure damages sensitive tissue	HAZARDS
-Patient is unable to fully recover from procedure	HAZARDS
-Lung nodule must be biopsied without harming the patient	CONSTRAINTS
-The patient must be monitored and treated appropriately while recovering from the procedure	CONSTRAINTS
-Explosion	LOSSES
-Leakage	LOSSES
-Temperature too high	HAZARDS
-Pressure too high	HAZARDS
-Level too high	HAZARDS
-Temperature must never violate maximum value	CONSTRAINTS
-Pressure must never violate maximum value	CONSTRAINTS
-Level must never violate maximum value	CONSTRAINTS
-Anti-theft function loss or degradation	HAZARDS
-Braking malfunction	HAZARDS
-Electronic component overheating	HAZARDS
-Impeding driver ability to control vehicle	HAZARDS
-Inadvertent engine start	HAZARDS
-Pinch detection loss or degradation	HAZARDS
-Restraint system malfunction (loss, degradation, or inadvertent deployment)	HAZARDS
-Roadway illumination and vehicle conspicuity loss or degradation	HAZARDS
-Steering loss or degradation	HAZARDS
-Unintended door opening	HAZARDS
-Vehicle inability to accelerate or stalling	HAZARDS
-Vehicle unintended acceleration	HAZARDS
-Vehicle instability	HAZARDS
-Vehicle movement in unexpected direction	HAZARDS
-Windshield visibility loss or degradation	HAZARDS
-Injury or damage by jagged edges or corners	LOSSES
-An actuator is stroked by arbitrary object	LOSSES
-A component may explode	LOSSES
-A resident pinched between arm-wall-object	LOSSES
-Body’s part caught in an uncovered actuator	LOSSES
-Robot run on a person or another home asset	LOSSES
-Electrical shock	LOSSES
-Contact with worn insulation	LOSSES
-Uncontrolled chemical/ fire factors	LOSSES
-Robot halts	LOSSES
-Coexistence problems	LOSSES
-Irritant / sensitizing effects	LOSSES
-Interference causes injury or equipment damage	LOSSES
-Cushioning shall minimize cutting, stabbing, shearing	CONSTRAINTS
-Sharp edges, corners and picks shall be avoided. Soft material shall be used for covering	CONSTRAINTS
-Label signs on stored energy sources to avoid pressing an inappropriate switch	CONSTRAINTS
-Replace mechanisms if they work under heavy load	CONSTRAINTS
-No additional clothing	CONSTRAINTS
-Surfaces & Covers free from loose chipping or peeling paint	CONSTRAINTS
-No flammable dust, toxic vapours, paint thinner, oil based paint, ammonia, drain cleaner, chlorine bleach	CONSTRAINTS
-Screws & Fixtures against signals / connectors	CONSTRAINTS
-Homogeneous network of multiple sensors adequate to its task	CONSTRAINTS
-Design connectors against separation of wires	CONSTRAINTS
-Prevent cords from coming in contact with burrs, cooling fans	CONSTRAINTS
-Internal connectors must be waterproof and give a reliable connection	CONSTRAINTS
-Inspect cables for frays	CONSTRAINTS
-The electrical equipment should follow the relevant requirements	CONSTRAINTS
-Install emergency buttons & tactile sensors which halt all mechanisms in case of danger	CONSTRAINTS
-Check repeatability, settings and reliability	CONSTRAINTS
-Find bugs in program	CONSTRAINTS
-The restart method must be tested that deals for all malfunctions. A more detailed method than a simple button. Must not restart after 5 seconds. Provide a known safe point for restart	CONSTRAINTS
-Robot movements shall be as smooth as reasonably practical, given the appropriate task goals of the robot	CONSTRAINTS
-Use of active sound absorbing mechanisms to avoid emitting noise	CONSTRAINTS
-Disorientation must be avoided	CONSTRAINTS
-The frequency of signal must not interfere other robots or devices	CONSTRAINTS
-The robot must not response to other signals like light wavelengths, acoustic frequencies, background noise frequencies for audio signals. It must respond to remote controller	CONSTRAINTS
-Robot’s tasking path shall not be affected by adjacent metal robot’s equipment, hidden cables, another device using frequency within the same range	CONSTRAINTS
-Doors close on a person in the doorway	HAZARDS
-Doors open when the train is moving or not at platform	HAZARDS
-Passengers/staff are unable to exit during an emergency	HAZARDS
-Pilot positions aircraft too close to small boat	HAZARDS
-Helicopter hoist gets entangled on small boat	HAZARDS
-An entangled hoist causes damage to the aircraft	HAZARDS
-Pilot/aircrew continues to fly aircraft after damage	HAZARDS
-The pilot must not position aircraft too close to small boat	CONSTRAINTS
-The hoist must not become entangled on the small boat	CONSTRAINTS
-The aircrew/pilot must be able to disconnect/disentangle the hoist without causing damage to the aircraft	CONSTRAINTS
-The pilot/aircrew must abandon aircraft after severe damage to the aircraft	CONSTRAINTS
-An intruder interrupts the robot’s network which is infrastructure 802.11 wireless, leaking private information through MAC addresses. Eavesdrop on private information is intercepts even if the network is protected by WEP, WPA, or WPA2 encryption. An intruder could hijack valid username and password by eavesdropping on ad hoc mode or on 802.11 wireless mode of robot	LOSSES
-A remote attacker interrupts packets aloof over the Internet stealing opprobrious photos	LOSSES
-A wireless attacker is aggressively cracking the robot’s home network controlling the robot so as to fall from stairs or jumping out of a window	LOSSES
-A defender may control the audio capabilities to upset a child	LOSSES
-The constantly on nature of a home surveillance robot indicates greater capabilities for an intruder to control the robot in order to spy on a house	LOSSES
-A defender could impose the deficiencies of the robot to cause property damage in the domestic environment	LOSSES
-Watch a child in private locations through robot’s mobile video camera in case the robot is in remote access mode	LOSSES
-Direct sunlight or infrared signals towards robot’s sensors cause interference	LOSSES
-The released electrolyte of an intended open of the power pack may cause damages to skin or eyes	LOSSES
-Safety characteristics shall continue to be active, so that the robot will halt when necessary to protect people. Otherwise a person might be crushed between the robot and another object, person or the wall or robot being controlled to commit suicide	CONSTRAINTS
-Dynamic brakes for the case of network cracking shall be provided. When software shuts down robots may follow arbitrary trajectories and breakdown	CONSTRAINTS
-A built-in electronic hardware control system and/or safety operational software shall be selected to force the robot to shut itself down in an emergency, so that to prevent harmful accidents of robotic system	CONSTRAINTS
-Warning signals if any environmental condition is violated	CONSTRAINTS
-Sensors shall remain functioning, so that the robot will pause when necessary to protect people	CONSTRAINTS
-Power pack or sealed batteries shall continue to be active in order to protect residents under all emergency circumstances	CONSTRAINTS
-User shall be warned by the manufacturer that regarding surveillance robot functioning on batteries, there exist electrical hazards such as fire, electrical surge or chemical hazard in case that battery is misused and explosion hazard, if the power pack is improperly handled	CONSTRAINTS
-Secure Sockets Layer (SSL) virtual private networks (VPN) facilitate safe remote access to the robot’s network	CONSTRAINTS
-The SSL Portal VPNs should be used from the robot since it provides a single SSL connection to a Web page to safely gain access to multiple network resources. The robot uses the SSL VPN gateway via its Web browser, log on itself to the gateway using an authentication procedure required by the gateway, and is then accessible to a Web site that acts as the gate to the other resources	CONSTRAINTS
-The SSL Tunnel VPNs should be used from the robot since it provides a normal Web browser to safely access multiple network resources, including protocols that are not web-based, through a tunnel that is using SSL. SSL tunnel VPNs require that the Web browser can handle active content, which offers functionality that is not accessible to SSL portal VPNs	CONSTRAINTS
-IPsec offers peer authentication and integrity including two security protocols, Authentication Header and Encapsulating Security Payload (ESP), Internet Key Exchange protocol and IP Payload Compression Protocol	CONSTRAINTS
-An intruder that is spying network packets does not know which residents are talking, how often contacts are taking place, or how much packets is being delivered. Moreover, the amount of data being swapped could be counted	CONSTRAINTS
-IPsec encrypts information using a cryptographic algorithm and a confidential value recognized by the persons who are communicating. The network information can only be decrypted by someone who has the confidential key	CONSTRAINTS
-The robot shall be equipped with a specific audio or visual signal, easily recognizable by everyone, to let people know whether it is on or off	CONSTRAINTS
-Monitor the privacy policy of the user by sustaining the particular sensing capabilities of the robot, mainly when it is incorporated with privacy sensitive sensors, such as web cameras or stereo microphones	CONSTRAINTS
-Recognize the requirements to defend privacy vulnerabilities of network performance and identify how those deficiencies can best be accomplished	CONSTRAINTS
-Take decisions in four parameters: architectural policy, authentication models, cryptography method and packet filters	CONSTRAINTS
-An authentication method ought to be chosen depending on potential maintenance and privacy policy requirements. Packet filters should implement the necessary measures to control traffic and do not block traffic for interoperability factors	CONSTRAINTS
-Recognize any possible threats such as numerous parameters, including authentication, implementation compatibility, management, performance, the privacy of the development, and element interoperability	CONSTRAINTS
-Breakdown of the robot	HAZARDS
-Environmental hazard generated by lightning or radiation	HAZARDS
-Contact with poisonous or noxious substances of the robot’s body surface	HAZARDS
-Hazards generated by neglecting ergonomic principles in machine taking advantage of privacy vulnerabilities	HAZARDS
-Hazards generated by neglecting ergonomic principles in machine causing psychological effects	HAZARDS
-Mechanical hazard cause property damage	HAZARDS
-Reactor core is damaged because the SIAS does not operate when the 4 events—LOCA, 2ndHSL, S/WP-Ex, or REA—occur	HAZARDS
-Heat removal and fission clean up f ail when the three events—LOCA, S /WP-Ex, or the SIAS—occur	HAZARDS
-Maintenance of pressure in a main control room fails when the two ev ents—High-level radioactive at air i ntakes of MCR or the SIAS—occur	HAZARDS
-The SIAS must operate when the 4 events—LOCA, 2ndHSL, S/WP-Ex, or REA—occur	CONSTRAINTS
-The CSAS must operate when the t hree events—LOCA, S/WP-Ex, or th e SIAS—occur	CONSTRAINTS
-The CREVAS must operate when th e two events—High-level radioactiv e at air intakes of MCR or the SIAS —occur	CONSTRAINTS
-People injured or killed	LOSSES
-Environment contaminated	LOSSES
-Equipment damage (economic loss)	LOSSES
-Loss of electrical power generation	LOSSES
-Release of radioactive materials	HAZARDS
-Reactor temperature too high	HAZARDS
-Equipment operated beyond limits	HAZARDS
-Reactor shut down	HAZARDS
-The ACC vehicle crashes with a vehicle in front when the ACC system is in active mode (Forward Collision vehicle to vehicle)	LOSSES
-The vehicle behind crashes the ACC vehicle when the ACC system detects an object in the vehicle path (Backward Collision vehicle to vehicle)	LOSSES
-ACC violates the safe distance between ACC vehicle and vehicle in front	HAZARDS
-ACC did not illuminate brake light to warn vehicle in the behind	HAZARDS
-ACC does not reduce throttle and apply the braking force to maintain safe distance as preset by driver when vehicle catches up with a slower preceding vehicle	HAZARDS
-ACC estimates wrong values of distance and speed of vehicle ahead	HAZARDS
-The driver is able to override the ACC system at any time by activating the brake or accelerator pedal	HAZARDS
-Vehicle must illuminate the brake light to warn vehicle in the back	CONSTRAINTS
-Brake light command must illuminate early within X seconds before stopping vehicle	CONSTRAINTS
-Vehicle must brake when vehicle detected slowed or stopped object (at a few X meters within the preset value of the safety distance) in its path	CONSTRAINTS
-The intervention between ACC system and driver should be limited to the traffic environment and conditions	CONSTRAINTS
-Customer's data released to public	HAZARDS
-Customer's data misused by JID	HAZARDS
-Customer's data released to unauthorized 3rd parties	HAZARDS
-Customer's data misused by authorized 3rd parties	HAZARDS
-Customer's data must not be released to public	CONSTRAINTS
-Customer's data must be not be misused by JIT	CONSTRAINTS
-Customer's data must not be released to unauthorized 3rd parties	CONSTRAINTS
-Customer's data must not be misused even by authorized 3 rd parties	CONSTRAINTS
-Fire accident	LOSSES
-Avoiding the concurrence of flammable substances, oxidizer and ignition source	CONSTRAINTS
-Avoiding the interaction of flammable substances, oxidizer and ignition source	CONSTRAINTS
-Navigation software with feta defects is integrated into navigation system	HAZARDS
-NSS should develop NS following the top-level requirements from NSI	CONSTRAINTS
-NSI should ensure NS accept from NSS is conform to the its requirements	CONSTRAINTS
-Unintended Longitudinal Vehicle Acceleration	HAZARDS
-Loss/Reduced Longitudinal Vehicle Acceleration	HAZARDS
-Unintended Travel in the Opposite Direction	HAZARDS
-Unintended Propulsion Engage (or Power flow)	HAZARDS
-Loss of Propulsion (or Power flow)	HAZARDS
-Unintended Longitudinal Vehicle Motion (Rollaway)	HAZARDS
-Loss of Longitudinal Vehicle Motion	HAZARDS
-Unintended Vehicle Deceleration	HAZARDS
-Loss/Reduced Vehicle Deceleration	HAZARDS
-Unintended Lateral Vehicle Motion	HAZARDS
-Loss of Lateral Vehicle Motion	HAZARDS
-Unintended Vehicle Yaw	HAZARDS
-Unintended Vehicle Vertical Motion/Roll	HAZARDS
-Control system shall compute periodically the Axle Torque request and other relevant inputs	CONSTRAINTS
-The Control System shall correctly calculate Axle Torque request based on all of it’s inputs	CONSTRAINTS
-Output control timing shall be synchronized with axle torque request; (Output should be in sync. with input)	CONSTRAINTS
-Integrity of relevant feedback information shall be verified	CONSTRAINTS
-System shall be able to correctly control the actuator (Throttle, Spark, Fuel, etc.) when required; Actuator stuck shall be diagnosed	CONSTRAINTS
-Control system shall control the actuator (Throttle, Spark, Fuel, etc.) correctly in response to axle torque request	CONSTRAINTS
-Feedback information shall be diagnosed for integrity	CONSTRAINTS
-Actuator (Throttle, Spark, Fuel, etc.) Control timing shall be synchronized with Axle Torque Request; (Output should be in sync. with input)	CONSTRAINTS
-Integrity of relevant feedback Information shall be verified to ensure actuator (Throttle, Spark, Fuel, etc.) control output is following axle torque request	CONSTRAINTS
-Hardware integrity metrics compliance for sensors, actuators, motor control and driver, i/o circuit, feedback information, processor and controller hardware circuit shall be met	CONSTRAINTS
-Process to check correctness of System, Software and Hardware requirements, design, implementation and V&V; Process to verify integrity checks during software changes, calibration changes; EMI Analysis; Ergonomics Human factors analysis for Pedal placement shall be performed	CONSTRAINTS
-Humans injured or killed (On earth, in air, in space)	LOSSES
-Damage and/or interruption of operations of other systems (Supporting infrastructure, other satellites, all other equipment)	LOSSES
-Unplanned damage or disruption of the satellite (LOV)	LOSSES
-Mission loss (Unable to perform mission to design standards) (LOM)	LOSSES
-Humans exposed to radiated energy or to toxic, radioactive, or energetic elements of mission hardware	HAZARDS
-Non-human, non-system (the satellite) elements exposed to radiated energy or to toxic, radioactive, or energetic elements of mission hardware	HAZARDS
-Satellite hardware exposed to excessive radiation, or caustic or energetic materials	HAZARDS
-Satellite enters unsafe environment or orbit/flight path	HAZARDS
-Mission science data not gathered, returned, or stored	HAZARDS
-Loss of control or communications	HAZARDS
-Radiation and toxic, radioactive, or energetic materials must not be released within range of humans or other systems	CONSTRAINTS
-Radioactive, toxic, or energetic materials must be stored away from humans	CONSTRAINTS
-Satellite, satellite components, and satellite debris must not impact other systems or debris during launch, on orbit, or during disposal	CONSTRAINTS
-Satellite must not radiate energy until on orbit, separated from, and clear of launch vehicle and debris	CONSTRAINTS
-Radiated energy frequencies should be selected so as to be different from those used by other systems if possible	CONSTRAINTS
-Radiated energy must not be directed at and/or reach other systems using the same frequency if possible. Otherwise, radiation must be at sufficiently low power so as to prevent disruption or damage of other systems	CONSTRAINTS
-Satellite must not operate in an environment that poses the risk of excessive radiation or impact from energetic materials	CONSTRAINTS
-Satellite must be able to operate for the design life	CONSTRAINTS
-Satellite must be able to operate onboard instrumentation	CONSTRAINTS
-Satellite must be launched into correct orbit, or means to correct for different orbits must exist	CONSTRAINTS
-Data obtained by instrumentation must be stored and/or transmitted to supporting infrastructure	CONSTRAINTS
-Satellite must maintain means of transmitting science data to supporting systems	CONSTRAINTS
-Satellite must maintain means of communication with supporting systems	CONSTRAINTS
-Satellite must maintain means of control	CONSTRAINTS
-Dose delivered to patient is wrong in either amount, location, or timing	HAZARDS
-Non-patient is unnecessarily exposed to radiation	HAZARDS
-Persons are subjected to the possibility of nonradiological injury	HAZARDS
-Procedures must be in place to identify and investigate thoroughly all serious or potentially serious incidents	CONSTRAINTS
-Recommendations must be implemented to eliminate or mitigate all identified factors contributing to the adverse events	CONSTRAINTS
-Follow-up must be provided to ensure that recommendations have been implemented and are effective	CONSTRAINTS
-Lessons learned must be documented and disseminated	CONSTRAINTS
-Acute incident of hypoglycemia	LOSSES
-Acute incident of hyperglycemia	LOSSES
-Chronic hyperglycemia	LOSSES
-Patient ceases effective therapy	LOSSES
-Collisions resulting in loss of life, damage or severe disturbance of daily operation	LOSSES
-Violating a minimum of separation between vehicles and objects	HAZARDS
-Take off / landing executed only when runway is empty	CONSTRAINTS
-Crossing runway only when runway is not used for take off / landing	CONSTRAINTS
-Maintenance and construction of infrastructure only when infrastructure is blocked	CONSTRAINTS
-The system reports erroneous patients results to the user	HAZARDS
-The system reports the patient results too late	HAZARDS
-The system is unavailable for intended use due to premature failure or cartridge rejection	HAZARDS
-Accurate patient results must be reported to the medical staff	CONSTRAINTS
-Patient results must be reported to the medical staff in a useable timeframe	CONSTRAINTS
-The system should be available for intended use as designed	CONSTRAINTS
-Two trains are on the same “Occlusive Section” travelling at different speed	HAZARDS
-When a track section is occupied by a train, the TCC transmits control parameters representing track occupancy to other trains and issues warning signals (red) to the signal device in front of this section	CONSTRAINTS
-The failures in the Train Control System must be identified and provided as feedback to the dispatcher of CTC in time	CONSTRAINTS
-The dispatcher in the CTC and the watch keeper should identify the potential danger in the railway line and command the train to slow down or stop in emergency situations	CONSTRAINTS
-Vehicle occupants are injured while  ACC is engaged	LOSSES
-ACC did not maintain a safe distance  from the object in the front, resulting in collision	HAZARDS
-ACC slows down the vehicle too abruptly, and vehicle is rear-ended	HAZARDS
-ACCshould not let the vehicle gets in contact with the object ahead	CONSTRAINTS
-ACC should not brake too abruptly	CONSTRAINTS
-ACC shall maintain a TBD amount of distance between the vehicle and the object in front when engaged	CONSTRAINTS
-ACC shall limit vehicle deceleration to no more than TBDm/s^2	CONSTRAINTS
-Continuous Medical Tests of Drivers to Ensure Capabilities	CONSTRAINTS
-Adaptation of Driver Education to Individual Habits	CONSTRAINTS
-Adapting Punishment to Individual Income	CONSTRAINTS
-Designing Driver Assistant Systems in Compliance with Standards/Laws	CONSTRAINTS
-Implementation of Award-Systems for Safe Driver	CONSTRAINTS
-Creating a Direct Feedback of Drivers’ Level of Control	CONSTRAINTS
-Loss of life or injury to people	LOSSES
-Loss or damage to elevator	LOSSES
-Loss of user satisfaction	LOSSES
-Crushing of body limbs	HAZARDS
-Injury or death from impact on top or bottom of elevator shaft	HAZARDS
-Elevator deceleration is insufficient to stop in correct elevator position	HAZARDS
-Closing and opening of elevator doors during movement	HAZARDS
-Constant service failures and interruptions	HAZARDS
-Failure on the system to control elevators ascent or descent motor	HAZARDS
-Elevator damper or brake failure	HAZARDS
-Elevator power loss	HAZARDS
-Risk of fall injury during elevator maintenance	HAZARDS
-engine does not start	HAZARDS
-Elevator goes up and down opposite the direction of the arrows	HAZARDS
-Only the motor column works	HAZARDS
-Pedal pressed and elevator does not go up or down	HAZARDS
-Elevator controller system is not working properly	HAZARDS
-Verification of the operation of door sensors and actuators by the maintenance team. Electronic security system blocking elevator movement with open doors	CONSTRAINTS
-Safety system against elevator fall or elevator going up beyond the limit. Security system against opening the door outside the floors	CONSTRAINTS
-Do not exceed the maximum weight in the elevator. preventive maintenance of engines	CONSTRAINTS
-Maintenance of sensors and actuators, installation of a device that detects malfunctioning sensors and actuators	CONSTRAINTS
-Periodic maintenance and or need for updating	CONSTRAINTS
-Replacement or maintenance of computers that drive elevator engines	CONSTRAINTS
-Maintenance of shock absorbers and replacement of brakes if necessary	CONSTRAINTS
-Maintenance of electrical parts	CONSTRAINTS
-Verification of personal protective equipment	CONSTRAINTS
-Check that the elevator is connected to the network and that there are no circuit breakers and fuses turned off or damaged in the network	CONSTRAINTS
-Electric switch input wires reversed	CONSTRAINTS
-Link chain is broken or disengaged	CONSTRAINTS
-Adjusting the electric wrench rods	CONSTRAINTS
-Periodic maintenance	CONSTRAINTS
-The elevator motor with loss of power	SUBHAZARDS
-Engine turns on, but elevator does not go up	SUBHAZARDS
-Door sensor reading failure	SUBHAZARDS
-Excessive chain noise	SUBHAZARDS
-Shaft interior noises	SUBHAZARDS
-Intermittent noise when running	SUBHAZARDS
-Defective buttons and switches	SUBHAZARDS
-Wear on elevator brakes	SUBHAZARDS
-Bad contact of connectors or damaged electronic components of the controller	SUBHAZARDS
-Sensors that send signal to the controller are damaged	SUBHAZARDS
-Preventive engine maintenance	CONSTRAINTS
-Lack of belt tension. Adjustment nut located on the base of the motor	CONSTRAINTS
-Cleaning the elevator sensors, measuring and checking the fastening screws	CONSTRAINTS
-Lack of grease or too much stretching	CONSTRAINTS
-Lack of grease in the nut reservoir or lubrication of the inside of the columns	CONSTRAINTS
-Upper thrust bearing must be replaced	CONSTRAINTS
-exchange of switches	CONSTRAINTS
-Lack of preventive maintenance of the brakes or shock absorber	CONSTRAINTS
-Replacement of damaged connectors or components	CONSTRAINTS
-Replacement of damaged sensors	CONSTRAINTS
-Adverse event, loss of life or collateral damage to patients	LOSSES
-Electric shocks or burns to medical and care staff	LOSSES
-Burning of surgical equipment	LOSSES
-Burning of components outside the surgical environment	LOSSES
-Fire, explosion or burning of equipment in the power supply system	LOSSES
-Medical IT system does not prevent the passage of leakage currents in systems and equipment	HAZARDS
-Medical IT system shuts down completely instead of just shutting down circuits identified as faulty	HAZARDS
-UPS system does not keep the power running when there is an external surge	HAZARDS
-Protection circuit breakers do not trip in the event of a short circuit originating from a source internal to the surgical environment	HAZARDS
-Protection circuit breakers do not trip in the event of a short circuit originating from a source outside the surgical environment	HAZARDS
-Power generators do not work in case of prolonged power supply failure from the external network	HAZARDS
-Separation Transformer goes into fault	SUBHAZARDS
-Separation Transformer with improper ground connection	SUBHAZARDS
-Faulty Isolation Supervisory Device	SUBHAZARDS
-UPS with damaged batteries	SUBHAZARDS
-UPS with bypass state	SUBHAZARDS
-Circuit breaker does not trip in case of short	SUBHAZARDS
-Circuit breaker installed in the safety range in disagreement with the installation demand	SUBHAZARDS
-Circuit breaker does not trip in case of short	SUBHAZARDS
-Circuit breaker installed in the safety range in disagreement with the installation demand	SUBHAZARDS
-Generator does not detect utility power outage	SUBHAZARDS
-Generator does not start automatically	SUBHAZARDS
-Generator configured in Manual mode	SUBHAZARDS
-Generator with discharged drive batteries	SUBHAZARDS
-Generator without fuel in supply tank	SUBHAZARDS
-Separation Transformation with Absorption Index in the test (R1Min/R10min) >1.6	CONSTRAINTS
-Separation transform with its output ground disconnected from the main ground of the installation	CONSTRAINTS
-Insulation Supervisor Device without evidence of failures during preventive maintenance and periodic inspection	CONSTRAINTS
-UPS with batteries with a maximum voltage 2% below its nominal value	CONSTRAINTS
-UPS in Normal state (not in by-pass) when in preventive maintenance check and periodic inspection	CONSTRAINTS
-Circuit breaker trips on stroke test	CONSTRAINTS
-Circuit breaker installed in compliance with the installation as-built	CONSTRAINTS
-Generator operates in power outage simulation tests	CONSTRAINTS
-Generator starts in automatic mode in power failure test	CONSTRAINTS
-Generator in Automatic state (not in Manual) when in preventive maintenance check and periodic inspection	CONSTRAINTS
-Generator with batteries with a maximum voltage 2% below its nominal value	CONSTRAINTS
-Generator with fuel tank with at least 30% of its storage volume	CONSTRAINTS
-Loss of life or injury to nearby personnel	LOSSES
-Damage or damage to the inspected aircraft	LOSSES
-Damage or loss of items outside the shed (other aircraft in the shed)	LOSSES
-Pollution of the environment with chemical fumes from the collision	LOSSES
-Mission loss (example: loss of inspection data, incorrect data, incomplete data)	LOSSES
-Loss of customer satisfaction and trust	LOSSES
-Damage or damage to the drone's own hardware	LOSSES
-Power unit subsystem not having enough power	HAZARDS
-Crash safety subsystem did not keep safety distance	HAZARDS
-Drone performing incorrect trajectory	HAZARDS
-Failed camera subsystem	HAZARDS
-Failed Lidar subsystem	HAZARDS
-Drone op. Control with communication failure	HAZARDS
-Failed on-board control	HAZARDS
-Lost or failed mechanical flight system (propellers, engine, integration)	HAZARDS
-Power unit subsystem with discharged battery pack	SUBHAZARDS
-Power unit subsystem physical problems with battery pack	SUBHAZARDS
-Crash safety subsystem with insufficient or incorrect deceleration	SUBHAZARDS
-Crash safety subsystem turned off or the controller did not work	SUBHAZARDS
-Crash safety subsystem taking incorrect sensor data readings	SUBHAZARDS
-Crash safety subsystem working with sensors off or physical issues with some of the set items	SUBHAZARDS
-Crash safety subsystem did not receive brake command (SW)	SUBHAZARDS
-Crash safety subsystem did not work braking	SUBHAZARDS
-Drone with incorrect planned trajectory (human error)	SUBHAZARDS
-Drone with malfunctioning GPS	SUBHAZARDS
-Camera subsystem with incorrectly specified configuration (parameters, gimbal angle, etc)	SUBHAZARDS
-Camera subsystem performing incorrect reading of points (GPS delivers incorrect location) for capture	SUBHAZARDS
-Camera subsystem with gimbal in wrong position	SUBHAZARDS
-Camera subsystem with physical problems	SUBHAZARDS
-Lidar subsystem performing incorrect sensor data readings	SUBHAZARDS
-Lidar subsystem with disconnected sensors or corrupted physical link	SUBHAZARDS
-Drone op. Control with on-board communication failure (sending or reading, incomplete connection, etc.)	SUBHAZARDS
-Drone op. Control is unable to prioritize communication	SUBHAZARDS
-On-board control with communication failure with other systems	SUBHAZARDS
-On-board control performing incorrect data readings	SUBHAZARDS
-On-board control with physical problems (corrupted connection, damage, etc.)	SUBHAZARDS
-Flight mechanical system with physical problems (damage to some equipment in whole or in part)	SUBHAZARDS
-Flight mechanical system with integration issues	SUBHAZARDS
-Flight mechanical system taking incorrect data readings	SUBHAZARDS
-Power unit subsystem should only consume 85% for the whole process	CONSTRAINTS
-Power unit subsystem with 5% charge perform emergency landing route	CONSTRAINTS
-Crash safety subsystem must undergo calibration prior to any flight	CONSTRAINTS
-Crash safety subsystem must undergo preventive or corrective maintenance every week	CONSTRAINTS
-Crash safety subsystem must pass fatigue process to test software and hardware	CONSTRAINTS
-Crash safety subsystem must have 0.4s communication time with braking system	CONSTRAINTS
-Drone must perform trajectory validation test in virtual environment	CONSTRAINTS
-Drone must perform GPS validation test before starting the flight	CONSTRAINTS
-Camera subsystem must have its configuration file validated by 3 people	CONSTRAINTS
-Camera subsystem must go through a data validation process before starting the flight	CONSTRAINTS
-Lidar subsystem must go through data validation process before starting the flight	CONSTRAINTS
-Drone op. Control must go through a data validation process before starting the flight	CONSTRAINTS
-Drone op. Control must go through a priority validation process before starting the flight	CONSTRAINTS
-On-board control must pass communication test with other systems before starting the day	CONSTRAINTS
-On-board control must pass data validation test before starting the flight	CONSTRAINTS
-Flight mechanical system must pass visual inspection before starting the flight	CONSTRAINTS
-Flight mechanical system must pass data validation test before starting flight	CONSTRAINTS
-Multiple intramural fatalities or extramural fatalities	LOSSES
-Intramural fatality or serious injuries	LOSSES
-Serious intramural injuries	LOSSES
-Workers poisoning	LOSSES
-Catastrophic damage, with loss of installation	LOSSES
-Severe system damage (slow repair)	LOSSES
-Moderate damage to systems	LOSSES
-moderate equipment damage	LOSSES
-Atmospheric pollution	LOSSES
-Atmospheric pollution	LOSSES
-contamination of springs	LOSSES
-international repercussion	LOSSES
-national repercussion	LOSSES
-Regional repercussion	LOSSES
-Local repercussion	LOSSES
-Large leak of flammable liquid hydrocarbon at high temperature	HAZARDS
-Large leakage flammable and toxic gas with H2 and H2S	HAZARDS
-Large fuel gas leak	HAZARDS
-Explosive mixture in combustion chamber	HAZARDS
-Large acid water leak with H2S and NH3	HAZARDS
-Loss of containment in piping and/or static equipment due to overpressure	SUBHAZARDS
-Loss of containment in piping and/or static equipment due to low thickness	SUBHAZARDS
-Loss of containment in pumps due to sealing system failure	SUBHAZARDS
-Flammable and toxic gas leak in the compression system	SUBHAZARDS
-Leaking flammable and toxic gas in piping, accessories and at overpressure or low thickness	SUBHAZARDS
-Combustible gas leaks from valve gaskets	SUBHAZARDS
-Combustible gas leaks at pipe flange joints	SUBHAZARDS
-Burner/pilot shutdown during lighting or normal operation	SUBHAZARDS
-Hydrocarbon leak in the internal piping of the combustion chamber (coil) of the furnaces due to the high temperature	SUBHAZARDS
-Hydrocarbon leakage in the internal piping of the combustion chamber (coil) of the furnaces due to the low thickness	SUBHAZARDS
-Leakage of acidic water in piping and/or static equipment due to overpressure	SUBHAZARDS
-Leakage of acidic water in piping and/or static equipment due to low thickness	SUBHAZARDS
-Acidic water leakage in pumps due to failure in the sealing system	SUBHAZARDS
-Flammable liquid hydrocarbons must be contained in the pipelines	CONSTRAINTS
-Gases containing hydrogen and hydrogen sulphide must be contained in vessels and pipes	CONSTRAINTS
-Fuel gas must be contained in the pipes	CONSTRAINTS
-Combustion chambers must not contain an explosive mixture.	CONSTRAINTS
-Acidic water must be contained in your pipes	CONSTRAINTS
-The operating pressure cannot be greater than the design pressure	CONSTRAINTS
-The material must be corrosion resistant to the process product	CONSTRAINTS
-The pump sealing system must be suitable for the product and the pressure variations of the sealing fluid	CONSTRAINTS
-The compression system must have adequate gaskets and enough torque to not leak gas.	CONSTRAINTS
-The operating pressure must not exceed the design pressure.	CONSTRAINTS
-Valve gaskets must be of good quality so as not to dry out and leak	CONSTRAINTS
-Flange gaskets must be specified for the condition of the material and process fluid	CONSTRAINTS
-The burners and pilots must have an interlock to close the individual valves in case of burner and pilot gas shutdowns	CONSTRAINTS
-Operating temperature must not exceed design limits for the piping material	CONSTRAINTS
-The inner piping material must be resistant to corrosion to the product under the process conditions	CONSTRAINTS
-The operating pressure in the acidic water system must not exceed the design pressure.	CONSTRAINTS
-Acidic water system piping material must be resistant to corrosion by agents present in sour water	CONSTRAINTS
-The sealing system must be suitable for the acid water process conditions	CONSTRAINTS
-Diabetic coma caused by severe hyperglycemia or hypoglycemia	LOSSES
-User infection: complications caused by uncontrolled blood glucose levels, involving skin and eye complications, neuropathy, kidney disease (nephropathy) and stroke	LOSSES
-The infusion pump or glucometer is disconnected from the infusion set without the user's knowledge	HAZARDS
-Excessive bolus delivery caused by incorrect infusion set setup	HAZARDS
-insulin leak	HAZARDS
-Insulin reservoir empties during infusion without patient awareness	HAZARDS
-Unexpected (unscheduled) injection of insulin	HAZARDS
-Connection failure between sensor and infusion pump	HAZARDS
-The pump stops delivering insulin without the user's knowledge	HAZARDS
-electromagnetic interference	HAZARDS
-Room temperature outside the recommended standards for using the insulin monitoring and infusion system	HAZARDS
-Excessive background noise (preventing the user from attending to pump notifications)	HAZARDS
-Incorrect bolus is indicated by the bolus calculator and accepted by the patient (patient takes incorrect amount of insulin)	HAZARDS
-Loss of blood glucose alert function	HAZARDS
-Failure to send insulin	HAZARDS
-Incorrect critical data. Critical data for insulin delivery include correction factors, power factor, basal rate profiles, scheduled bolus delivery, historical insulin delivery records, blood glucose records, and target blood glucose levels	HAZARDS
-Unexpected software execution	HAZARDS
-Infusion and monitoring system unexpectedly reset to default settings without user knowledge	HAZARDS
-Central processing unit failure	HAZARDS
-Pump infusion mechanism does not work as instructed	HAZARDS
-Insulin rate monitoring mechanism does not work properly	HAZARDS
-Worn/broken mechanical parts	HAZARDS
-Patient interface components (display, audible alarms) do not work properly	HAZARDS
-Sensors don't work properly	HAZARDS
-Real-time clock for controlling the speed of insulin administration does not work correctly (accelerating, decelerating or stopping insulin infusion)	HAZARDS
-Allergic reaction to pump materials or insulin	HAZARDS
-Skin infection - at the infusion set site	HAZARDS
-Skin sensor disconnection	HAZARDS
-Allergic reaction/rash to sensor material	HAZARDS
-The infusion pump is made of materials that cause allergic reactions in the user.	HAZARDS
+req,label
+Humans and/or human assets on earth are killed/damaged.,loss
+Humans and/or human assets off of the earth are killed/damaged.,loss
+Organisms on any of the moons of the outer planet (if they exist) are killed or mutated by biological agents of Earth Origin.,loss
+The scientific data corresponding to the mission goals are not collected.,loss
+"The scientific data is rendered unusable (e.g., deleted, corrupted, not returned at required time) before it can be fully investigated.",loss
+Organisms of Earth origin are mistaken for organisms indigenous to any of the moons of the outer planet in future missions to study the outer planet's moon.,exloss
+"An incident during this mission directly causes another mission to fail to collect, return, and/or use the scientific data corresponding to its mission goals.",exloss
+Inability of Mission to collect data.,hazard
+Inability of Mission to return collected data.,hazard
+Inability of Mission scientific investigators to use returned data.,hazard
+Contamination of Outer Planet Moon with biological agents of Earth origin on mission hardware.,exhazard
+"Exposure of Earth life or human assets on Earth to toxic, radioactive, or energetic elements of mission hardware.",exhazard
+"Exposure of Earth life or human assets off Earth to toxic, radioactive, or energetic elements of mission hardware.",exhazard
+"Inability of other space exploration missions to use shared space exploration infrastructure to collect, return, or use data.",hazard
+Near mid-air collision (NMAC): Two controlled aircraft violate minimum separation standards).,hazard
+Controlled maneuver into ground.,hazard
+Pilot loses control of aircraft.,exhazard
+Interference with other safety-related aircraft systems.,hazard
+Interference with the ground-based ATC system.,hazard
+Interference with ATC safety-related advisory.,hazard
+"When two aircraft are on a collision course, TCAS must always provide an RA to avoid the collision.",constraint
+TCAS must not provide RAs that degrade vertical separation.,constraint
+TCAS must always provide an RA in time to prevent an NMAC.,constraint
+The pilot must always follow the RA provided by TCAS.,constraint
+The system must not disrupt the pilot and ATC operations during critical phases of flight nor disrupt aircraft operation.,constraint
+The pilot of a TCAS-equipped aircraft must have the option to switch to the Traffic-Advisory mode where traffic advisories are displayed but display of resolution advisories is prohibited.,constraint
+Doors open while train is in motion or not aligned with station platform.,hazard
+Door closes on a person.,hazard
+Passengers cannot evacuate in case of an emergency.,hazard
+Doors must not be opened until train is stopped and aligned with platform.,constraint
+Doors must not be closed if someone is in the doorway.,constraint
+" If a person is detected in doorway during door closing, door closing must be stopped and reversed.",constraint
+Train must not move with doors open.,constraint
+A pair of controlled aircraft violates minimum separation standards.,hazard
+Aircraft enters an unsafe atmospheric region.,hazard
+Aircraft enters uncontrolled state.,hazard
+Aircraft enters unsafe attitude (excessive turbulence or pitch/roll/yaw that causes passenger injury but not necessarily aircraft loss).,hazard
+Aircraft enters a prohibited area.,hazard
+The flight crew must not execute the ITP when it has not been approved by ATC.,constraint
+The flight crew must not execute an ITP when the ITP criteria are not satisfied.,constraint
+"The flight crew must execute the ITP with correct climb rate, flight levels, Mach number, and other associated performance criteria.",constraint
+The flight crew must not continue the ITP maneuver when it would be dangerous to do so.,constraint
+The flight crew must not abort the ITP unnecessarily. (Rationale: An abort may violate separation minimums),constraint
+"When performing an abort, the flight crew must follow regional contingency procedures.",constraint
+The flight crew must not execute the ITP before approval by ATC.,constraint
+The flight crew must execute the ITP immediately when approved unless it would be dangerous to do so.,constraint
+The crew shall be given positive notification of arrival at the requested FL.,constraint
+Approval of an ITP request must be given only when the ITP criteria are met.,constraint
+ Approval must be given to the requesting aircraft only.,constraint
+Approval must not be given too early or too late (needs to be clarified as to the actual time limits).,constraint
+An abnormal termination instruction must be given when continuing the ITP would be unsafe.,constraint
+An abnormal termination instruction must not be given when it is not required to maintain safety and would result in a loss of separation.,constraint
+An abnormal termination instruction must be given immediately if an abort is required.,constraint
+Aircraft crashes.,exloss
+Death or injury.,loss
+Two aircraft violate minimum separation.,hazard
+Aircraft enters unsafe atmospheric region.,hazard
+Aircraft enters uncontrolled state.,hazard
+Aircraft enters unsafe attitude.,hazard
+Aircraft enters prohibited area.,hazard
+Pilot must execute maneuver once it is approved.,constraint
+Pilot must not perform ITP when criteria are not met or request has been refused.,constraint
+Pilot must start maneuver within X minutes of re-verifying ITP criteria.,constraint
+Collision with ISS.,exloss
+Damage to SSRMS.,exloss
+Loss of HTV mission.,loss
+HTV is drifting to ISS while uncontrolled (deactivated).,hazard
+HTV provides unintended attitude control in proximity to SSRMS.,hazard
+HTV is inclined by a large angle in proximity to SSRMS.,hazard
+"HTV cannot be separated immediately when grappled unsafely (e.g., windmill).",hazard
+HTV provides thrust while captured by SSRMS.,hazard
+FRGF is unintendedly separated from HTV before or during capture.,hazard
+"Collisions resulting in loss of life, damage or severe disturbance of daily operation.",exloss
+Violating a minimum of separation between vehicles and between vehicles and objects.,hazard
+Take off / landing executed only when runway is empty.,exconstraint
+Crossing runways only when runway is not used for take off / landing.,exconstraint
+Maintenance and construction of infrastructure only when infrastructure is blocked.,exconstraint
+Two trains are on the same “Occlusive Section” travelling at different speed.,hazard
+"When a track section is occupied by a train, the TCC transmits control parameters representing track occupancy to other trains and issues warning signals (red) to the signal device in front of this section.",exconstraint
+The failures in the Train Control System must be identified and provided as feedback to the dispatcher of CTC in time.,constraint
+The dispatcher in the CTC and the watch keeper should identify the potential danger in the railway line and command the train to slow down or stop in emergency situations.,constraint
+vehicle occupants are injured while ACC is engaged.,exloss
+"ACC did not maintain a safe distance  from the object in the front, resultng in collision.",hazard
+"ACC slows down the vehicle too abruptly, and vehicle is rear-ended.",hazard
+ACC should not let the vehicle gets in contact with the object ahead.,constraint
+ACC should not brake too abruptly.,constraint
+Gear for wrong direction.,exhazard
+Shift to unsuitable gear for speed.,hazard
+Vehicle occupants are injured while ACC is engaged.,exloss
+ACC does not maintain a safe distance from the object in the front (resulting in a collision).,hazard
+ACC slows down the vehicle too abruptly (and vehicle is rear-ended).,hazard
+ACC must not violate separation requirements with object ahead.,constraint
+ACC must not brake too abruptly.,constraint
+"Death, illness, or injury due to exposure to toxic chemicals.",loss
+Uncontrolled release of toxic chemicals.,hazard
+Toxic chemicals must not be released.,constraint
+Two aircraft collide.,exloss
+Aircraft crashes into terrain / ocean.,exloss
+Two aircraft violate minimum separation.,hazard
+Aircraft enters unsafe atmospheric region.,hazard
+Aircraft enters uncontrolled state.,hazard
+Aircraft enters unsafe attitude.,hazard
+Aircraft enters prohibited area.,hazard
+Pilot must execute maneuver once it is approved.,constraint
+Pilot must not perform ITP when criteria are not met or request has been refused.,constraint
+Pilot must start maneuver within X minutes of re-verifying ITP criteria.,constraint
+Doors close on a person in the doorway.,hazard
+Doors open when the train is moving or not at platform.,hazard
+Passengers/staff are unable to exit during an emergency.,hazard
+"Reactor core is damaged because the SIAS does not operate when the 4 events—LOCA, 2 ndHSL, S/WP-Ex, or REA—occur.",exhazard
+"Heat removal and fission clean up fail when the three events—LOCA, S/WP-Ex, or the SIAS—occur.",hazard
+Maintenance of pressure in a main control room fails when the two events—High-level radioactive at air intakes of MCR or the SIAS—occur.,hazard
+"The SIAS must operate when the 4 events—LOCA, 2ndHSL, S/WP-Ex, or REA—occur.",constraint
+"The CSAS must operate when the three events—LOCA, S/WP-Ex, or the SIAS—occur.",constraint
+The CREVAS must operate when the two events—High-level radioactive at air intakes of MCR or the SIAS—occur.,constraint
+People injured or killed.,loss
+Environment contaminated.,loss
+Equipment damage (economic loss).,loss
+Loss of electrical power generation.,loss
+Release of radioactive materials.,hazard
+Reactor temperature too high.,hazard
+Equipment operated beyond limits.,hazard
+Reactor shut down.,hazard
+Radiation Exposure.,loss
+Contaminated Enviroment.,loss
+Equipment Damage.,loss
+Injury or Death.,loss
+Lost Generation.,loss
+Reactor Exceeds Limits.,hazard
+Radioactive Material Release.,hazard
+Equipment Operated Beyond Limits.,hazard
+Inadvertent Equip. Operation During Maintenance.,hazard
+Reactor Shutdown.,hazard
+The ACC vehicle crashes with a vehicle in front when the ACC system is in active mode (Forward Collision vehicle to vehicle).,exloss
+The vehicle behind crashes the ACC vehicle when the ACC system detects an object in the vehicle path (Backward Collision vehicle to vehicle).,exloss
+ACC violates the safe distance between ACC vehicle and vehicle in front.,hazard
+ACC did not illuminate brake light to warn vehicle in the behind.,hazard
+ACC does not reduce throttle and apply the braking force to maintain safe distance as preset by driver when vehicle catches up with a slower preceding vehicle.,hazard
+ACC estimates wrong values of distance and speed of vehicle ahead.,hazard
+The driver is able to override the ACC system at any time by activating the brake or accelerator pedal.,hazard
+Vehicle must illuminate the brake light to warn vehicle in the back.,constraint
+Brake light command must illuminate early within X-seconds before stopping vehicle.,constraint
+Vehicle must brake when vehicle detected slowed or stopped object (at a few X-meters within the preset value of the safety distance) in its path.,constraint
+The intervention between ACC system and driver should be limited to the traffic environment and conditions.,constraint
+Train derails.,exhazard
+Train must run within limited speed.,constraint
+Driver must know the correct limited speed through different kinds of ways (e.g. IC cards and the scheduler).,constraint
+Customer's data released to public.,hazard
+Customer's data misused by JID.,hazard
+Customer's data released to unauthorized 3rd parties.,hazard
+Customer's data misused by authorized 3rd parties.,hazard
+Customer's data must not be released to public.,constraint
+Customer's data must be not be misused by JIT.,constraint
+Customer's data must not be released to unauthorized 3rd parties.,constraint
+Customer's data must not be misused even by authorized 3rd parties.,constraint
+"Avoiding the concurrence of flammable substances, oxidizer and ignition source.",exconstraint
+" Avoiding the interaction of flammable substances, oxidizer and ignition source.",exconstraint
+Navigation software with feta defects is integrated into navigation system.,hazard
+NSS should develop NS following the top-level requirements from NSI.,constraint
+NSI should ensure NS accept from NSS is conform to the its requirements.,constraint
+Controlled Flight into Terrain.,hazard
+Loss of Aircraft Control.,exhazard
+The Control system shall determine the axle torque request periodically.,constraint
+The Control System shall not miscalculate the Axle Torque request.,constraint
+Output Control shall be synchronized with Input request.,constraint
+System shall be made aware of the Axle Torque Command determination status.,constraint
+"System shall be able to control the actuator (Throttle, Spark, Fuel, etc.), when required.",constraint
+"Control system shall control the actuator (Throttle, Spark, Fuel, etc.) correctly in response to axle torque request.",constraint
+"Actuator (Throttle, Spark, Fuel, etc.) Control shall be synchronized with axle torque request.",constraint
+"If the control propulsion output stops, System propulsion output shall be gradually ramped to zero with operator notification. Graceful transition to a safe state.",constraint
+"Humans injured or killed (On earth, in air, in space).",loss
+"Damage and/or interruption of operations of other systems (Supporting infrastructure, other satellites, all other equipment).",loss
+Unplanned damage or disruption of the satellite (LOV).,loss
+Mission loss (Unable to perform mission to design standards) (LOM).,loss
+"Humans exposed to radiated energy or to toxic, radioactive, or energetic elements of mission hardware.",hazard
+"Non-human, non-system (the satellite) elements exposed to radiated energy or to toxic, radioactive, or energetic elements of mission hardware.",hazard
+"Satellite hardware exposed to excessive radiation, or caustic or energetic materials.",hazard
+Satellite enters unsafe environment or orbit/flight path.,hazard
+"Mission science data not gathered, returned, or stored.",hazard
+Loss of control or communications.,exhazard
+"Radiation and toxic, radioactive, or energetic materials must not be released within range of humans or other systems.",constraint
+"Radioactive, toxic, or energetic materials must be stored away from humans.",constraint
+"Satellite, satellite components, and satellite debris must not impact other systems or debris during launch, on orbit, or during disposal.",constraint
+"Satellite must not radiate energy until on orbit, separated from, and clear of launch vehicle and debris.",constraint
+Radiated energy frequencies should be selected so as to be different from those used by other systems if possible.,constraint
+"Radiated energy must not be directed at and/or reach other systems using the same frequency if possible. Otherwise, radiation must be at sufficiently low power so as to prevent disruption or damage of other systems.",constraint
+Satellite must not operate in an environment that poses the risk of excessive radiation or impact from energetic materials.,constraint
+Satellite must be able to operate for the design life.,constraint
+Satellite must be able to operate onboard instrumentation.,constraint
+"Satellite must be launched into correct orbit, or means to correct for different orbits must exist.",constraint
+Data obtained by instrumentation must be stored and/or transmitted to supporting infrastructure.,constraint
+Satellite must maintain means of transmitting science data to supporting systems.,constraint
+Satellite must maintain means of communication with supporting systems.,constraint
+Satellite must maintain means of control.,constraint
+Inability of control for intended flight.,hazard
+The damage to people or properties on the ground.,exhazard
+The operator should always be able to control the attitude and flight path during the whole flight.,constraint
+The vehicle should keep adequate distance and height against the people and properties on the ground.,constraint
+Procedures must be in place to identify and investigate thoroughly all serious or potentially serious incidents.,constraint
+Recommendations must be implemented to eliminate or mitigate all identified factors contributing to the adverse events.,constraint
+Follow-up must be provided to ensure that recommendations have been implemented and are effective.,constraint
+Lessons learned must be documented and disseminated.,constraint
+During a rejected takeoff the aircraft departs runway.,exloss
+Engine remains stuck at high thrust during a rejected takeoff.,hazard
+"When the aircraft is on the ground during takeoff or landing, and fuel flow is stuck high, when the pilot moves Throttle (TLA) to the idle, then automatically command an engine shutdown.",exconstraint
+TCM Protection activates causing inadvertent engine shutdown.,hazard
+Two or more vehicles collide.,exloss
+Vehicle collides with non-fixed obstacle.,exloss
+Vehicle crashes into terrain.,exloss
+Vehicle occupants injured without vehicle collision.,loss
+Vehicle does not maintain safe distance from nearby vehicles.,hazard
+Vehicle does not maintain safe distance from terrain and other obstacles.,hazard
+Vehicle enters uncontrollable or unrecoverable state.,hazard
+Vehicle occupants exposed to harmful effects and/or health hazards.,hazard
+Ensure the correct communication with the IS to activate the pre-flight event.,exconstraint
+The software must receive the NAV_ON to initialize the flight time.,constraint
+The ignition of the second rocket stage (2E) must be detected.,exconstraint
+The separation of the first rocket stage (1E) must be detected.,exconstraint
+The burnout of 2E must be detected.,exconstraint
+The burnout of 3E must be detected.,exconstraint
+Verify if the channels are actuated.,exconstraint
+Patient injured or killed from radiation exposure.,loss
+Non-patient injured or killed by radiation.,loss
+Damage or loss of equipment.,loss
+Physical injury to patient or non-patient during treatment.,loss
+"WRONG DOSE: Dose delivered to patient is wrong in either amount, location, or timing.",hazard
+NON-PATIENT IS UNNECESSARILY EXPOSED TO RADIATION.,hazard
+EQUIPMENT IS SUBJECT TO UNNECESSARY STRESS.,hazard
+PERSONS ARE SUBJECTED TO THE POSSIBILITY OF NON-RADIOLOGICAL INJURY.,hazard
+Software must complete calculations within 2 minutes.,constraint
+Temperature too high.,hazard
+Pressure too high.,hazard
+Level too high.,hazard
+Temperature must never violate maximum value.,constraint
+Pressure must never violate maximum value.,constraint
+Level must never violate maximum value.,constraint
+Toxic chemicals from the plant are in the atmosphere.,hazard
+Nuclear power plant radioactive materials are not contained.,hazard
+Toxic plant chemicals must not be released into the atmosphere.,constraint
+Radioactive materials must note be released.,constraint
+Vehicles do not maintain safe distance from each other.,hazard
+Vehicles must always maintain safe distances from each other.,constraint
+Food products for sale contain pathogens.,hazard
+Food products with pathogens must not be sold.,constraint
+Patient injury or death.,loss
+Ineffective treatment.,loss
+Loss to non-patient quality of life (esp. personnel).,loss
+Facility or equipment damage.,loss
+Patient tissues receive more dose than clinically desirable.,hazard
+Patient tumor receives less dose than clinically desirable.,hazard
+Non-patient (esp. personnel) is unnecessarily exposed to radiation.,hazard
+Equipment is subject to unnecessary stress.,hazard
+Computer must open water valve whenever catalyst valve is open.,constraint
+Computer must open water valve within X seconds of catalyst valve open.,constraint
+Computer must not close water valve while catalyst valve open.,constraint
+Computer must not close water valve before catalyst valve closes.,constraint
+Computer must not open catalyst valve when water valve not open.,constraint
+Pilots must not execute maneuver when ITP criteria are not satisfied.,constraint
+"Pilots must not execute maneuver with incorrect climb rate, final altitude, etc.",constraint
+Pilots must not begin to execute maneuver before approval.,constraint
+Pilots must execute maneuver within X minutes of reassessment.,constraint
+Pilots must not stop maneuver before reaching designated altitude (except in emergency temination).,constraint
+Pilots must not climb/descent beyond designated altitude.,constraint
+Two or more vehicles collide.,exloss
+Vehicle collides with non-fixed obstacle.,exloss
+Vehicle crashes into terrain.,exloss
+Vehicle occupants injured without vehicle collision.,loss
+Vehicle does not maintain safe distance from nearby vehicles.,hazard
+Vehicle does not maintain safe distance from terrain and other obstacles.,hazard
+Vehicle occupants exposed to harmful effects and/or health hazards.,hazard
+Vehicle must maintain safe distance from nearby vehicles.,constraint
+Vehicle must maintain safe distance from terrain and other obstacles.,constraint
+Vehicle must not expose occupants to harmful effects and/or health hazards.,constraint
+UAS operations shall not lead to a loss of minimum separation requirements.,constraint
+UAS operations shall not induce or contribute to a controlled flight into terrain maneuver.,constraint
+UAS operations shall not induce or contribute to loss of aircraft controlled flight.,constraint
+Vehicle occupants are injured during operation.,loss
+Two or more vehicles collide.,exloss
+Vehicle collides with a moving body.,exloss
+Vehicle collides with a non-moving body.,exloss
+Vehicle is damaged (economic loss).,loss
+Loss of customer preference/ brand loyalty.,loss
+Vehicle occupants experience harmful conditions during vehicle operation.,hazard
+Vehicle does not maintain minimum separation against other moving bodies.,hazard
+Vehicle does not maintain minimum separation against static bodies.,hazard
+Vehicle is difficult to operate.,hazard
+Vehicle equipment operated beyond limits (experience excessive wear and tear).,hazard
+Patient is killed or seriously injured.,loss
+Commands for dosage exceeding the patient's tolerance are sent to the pump.,hazard
+Incorrect information is sent to the display.,hazard
+The app must inform the display of the pump command status.,constraint
+The app must command the pump to stop if the patient's vital signs indicate over-infusion.,constraint
+The app must inform the display of the status of the patient's vital signs.,constraint
+Loss of control on ground.,exloss
+Loss of control in the air.,exloss
+Severe braking.,exhazard
+Late or no decision to abort.,hazard
+Flight controls misuse during takeoff run.,hazard
+Blown tire procedure not followed.,hazard
+Mistaken flight controls use during rotation.,hazard
+PIO (Pilot Induced Oscillation).,exhazard
+Landing gear retraction with blown tire.,hazard
+The takeoff must be aborted at the first sign of loss of directional control.,constraint
+Brakes cannot be applied severely when aborting with strong crosswind.,constraint
+Directional deviations must be corrected smoothly and continuously.,constraint
+Yawing at brakes release must be counteracted quickly.,constraint
+Side stick command should be applied to the side of the wind after releasing the brakes.,constraint
+Side stick command must be gradually reduced as the aircraft gains speed.,constraint
+"After rotation, the skid angle must be reduced to keep wings leveled.",constraint
+The transition of primary flight controls in the rotation should be performed smoothly and continuously.,constraint
+The procedure for landing with a blown tire must be completely followed.,constraint
+"When the bursting of a tire at high speed is suspected and the pilot decides to continue, the landing gear must not be retracted.",constraint
+Human serious injury or loss of life.,loss
+Significant damage to the port system infrastructure.,loss
+Significant loss of revenue.,loss
+Unauthorized individuals accessing port system infrastructure.,hazard
+Uncoordinated implementation of inspection procedures.,hazard
+Unauthorized individuals must not access the port system infrastructure.,constraint
+All inspection procedures must be coordinated between implementers.,constraint
+injury or loss of life.,loss
+damage to equipment.,loss
+Aircraft is operated when hazardous FLS is installed.,hazard
+Aircraft component is powered up when hazardous FLS is installed ,hazard
+Aircraft must not be operated when hazardous FLS is installed.,constraint
+Aircraft component must not be powered up when hazardous FLS is installed.,constraint
+Loss of human live or severe human injury or property damage.,loss
+Collision between the ACROBOTER robotic platform and an unknown object (both human or material).,exhazard
+A collision between the ACROBOTER robotic platform and an unknown object must be avoided at all times.,constraint
+Flying payload may be accidentally thrown by the robotic platform.,hazard
+The ACROBOTER robotic platform must not release the payload.,constraint
+Operating Unit cannot meet operational requirements or commitments.,loss
+Commitments or obligations are not in line with USCG financial policy.,hazard
+Commitments or obligations are recorded in excess of funding limitations.,hazard
+"Operating unit has missing and/or inoperable equipment, services, or supplies; or lacks qualification.",hazard
+USCG contracts are executed prior to sufficient funds being appropriated or committed.,hazard
+Patient injured or killed due to radiation.,loss
+Non-patient injured or killed due to radiation.,loss
+Damage to equipment.,loss
+ Death or injury of patient or non-patient not due to radiation.,loss
+Wrong radiation delivered.,hazard
+Staff is unnecessarily exposed to radiation.,hazard
+Equipment subject to unnecessary stress.,hazard
+Persons subjected to the possibility of nonradiation injury.,hazard
+Patient suffers radiological injury due to over-radiation.,loss
+Patient’s cancer advances due to under-radiation.,loss
+"Patient suffers physical, non-radiological injury.",loss
+Staff suffers injury (radiological or physical).,loss
+Persons subject to non-radiological injuries.,hazard
+Patient receives inappropriate treatment.,hazard
+Patient does not receive treatment.,hazard
+Non-patient receives radiation.,hazard
+Ready For Operation Target Date not achieved.,exloss
+Damage to adjacent local infrastructure during Project construction activities.,hazard
+Land acquisition is not completed when required to be handed over to construction contractors for start of Project construction activities.,hazard
+Authorities do not award permits to the Project when required for start of related Project construction activities.,hazard
+LLIs are not available when required to be used by construction contractors in the Project construction activities.,hazard
+Major Fire and/ or Explosion during Project commissioning activities.,hazard
+Loss of life or serious injury to patient.,loss
+Patient’s pain is not relieved.,loss
+Loss of protected patient or proprietary hospital information.,loss
+Financial loss or loss of hospital reputation.,loss
+Opioid overdose.,hazard
+Opioid under-dose.,hazard
+Unauthorized access to hospital/patient information.,hazard
+IPMS must send STOP command to PCA when patient has been given too much opiod.,constraint
+IPMS must not sent STOP command unless an emergency condition is indicated.,constraint
+IPMS must sent STOP command within TBD seconds of emergency.,constraint
+Two or more Vehicles Collide.,exloss
+Vehicle Collides with Pedestrian(s).,exloss
+Vehicle Occupant Injury.,loss
+Unintended Park Disengagement.,hazard
+Vehicle Roll Away from Not Engaging Park.,hazard
+Unintended Change of Direction.,hazard
+Unintended Propulsion.,hazard
+Loss or major damage to aircraft.,loss
+One or more fatalities or significant injuries.,loss
+Violation of minimum separation requirements.,hazard
+Lack of aircraft control.,hazard
+Multiple fatalities.,loss
+Loss of aircraft.,loss
+Loss of mission.,loss
+Smoke inside the cabin.,hazard
+Uncontrolled fire on board.,hazard
+Unnecessary loss of relevant functions.,exhazard
+There shall never be smoke inside the cabin.,constraint
+There shall never be uncontrolled fire on board.,constraint
+No relevant function shall be lost when not required.,constraint
+Train start with people between train door and PSD.,hazard
+There must be no person between train doors and PSDs when the train start.,constraint
+Train departures while door has not been closed completely.,hazard
+"The train did not stop at the parking screen window, open the door.",hazard
+"The train in the process of moving, and open the door.",hazard
+"When passengers get on or off, the door is closed.",hazard
+Unsafe separation from terrain / objects on ground during controlled flight.,hazard
+Uncontrolled flight over congested area.,hazard
+Unsafe separation from other flying objects during controlled flight.,hazard
+Aircraft violate minimum separation with other aircraft.,hazard
+Aircraft loses its control or loses airframe integrity.,hazard
+Aircraft performs controlled maneuver into ground or into obstacles on ground.,hazard
+Aircraft on the ground comes too close to other objects or leaves the paved area.,hazard
+Aircraft enters a runway with no clearance.,hazard
+Aircraft must maintain separation with other aircraft.,constraint
+Aircraft must maintain its control and maintain airframe integrity.,constraint
+Aircraft must maintain separation with ground or obstacles on ground.,constraint
+Aircraft on ground must maintain separation with other objects and must not leave the paved area.,constraint
+Aircraft must not enter a runway without clearance.,constraint
+Loss of life and injury.,loss
+Economic loss.,loss
+Vehicle does not maintain safe distance from nearby vehicles.,hazard
+Vehicle does not maintain safe distance from terrain and other obstacles.,hazard
+Vehicle occupants exposed to harmful effects and/or health hazards.,hazard
+People die or get injured from road crashes.,loss
+Property damage from road crashes.,loss
+"Vehicle (driven by human, automation or in cooperation) violates minimum safety distance to objects, road users, vehicles, etc.",hazard
+"Vehicle (driven by human, automation or in cooperation) leaves the roadway.",hazard
+"Vehicle must not violate minimum safety distance to objects, road users, vehicles, etc.",constraint
+Vehicle must not leave the roadway.,constraint
+Death or serious injury to rider or operator.,loss
+Significant devaluation of Acme stock.,loss
+Significant Damage to Smart Coaster.,loss
+Loss of Acme Intellectual Property.,loss
+Loss of company reputation.,loss
+Loss of consumer (rider) PII.,loss
+Rider or operator exposed to dangerous physiological conditions.,hazard
+Rider unsecure during ride operations.,hazard
+Smart Coaster operated outside of established parameters.,hazard
+Intellectual Property exposed to unauthorized individuals.,hazard
+Company takes actions inconsistent with stated values.,hazard
+Consumer (rider) PII exposed to unauthorized individuals.,hazard
+Smart coaster fails to deliver calculated rider experience.,hazard
+Worker in close proximity to track or car while ride in motion.,hazard
+Loss of A/C;,loss
+Injury of passenger and crew.,loss
+Flight in airspace contaminated by VA.,hazard
+A/C not compliant with airworthiness requirements.,hazard
+"Death, injury, or property damage resulting from a collision with a person, vehicle, object, or terrain.",loss
+"Injury or property damage occurring within the vehicle, without a collision.",loss
+"Loss of customer satisfaction with automated parking, without injury or property damage.",loss
+"The vehicle does not maintain a safe minimum distance between itself and obstacles such as pedestrians, vehicles, objects, and terrain.",hazard
+Occupants or cargo are subjected to sudden high forces that may result in injury or property damage.,hazard
+"The vehicle parks inappropriately, either in an unsuitable space (e.g. blocking a fire hydrant) or in violation of parking guidelines (e.g. excessively far from the curb).",hazard
+Workers are killed or injured on the job.,loss
+Workers are exposed to hazardous energy.,hazard
+Workers shall not be exposed to hazardous energy.,constraint
+Systems or equipment are damaged.,loss
+Scheduled work is not completed on time.,loss
+Systems or equipment are exposed to excessive levels of hazardous energy.,hazard
+"Production, delivery and/or maintenance commitments are missed.",hazard
+Scientific mission is not performed (mission loss).,loss
+ASTRO-H unable to collect scientific data.,exhazard
+ASTRO-H unable to communicate scientific data.,exhazard
+ACS must provide attitude maneuver commands when ASTRO-H is rotating.,constraint
+ACS must not provide attitude maneuver commands in the same direction as rotation.,constraint
+ACS must not provide attitude maneuver commands when ASTRO-H is not rotating.,constraint
+ACS must provide attitude maneuver commands that are sufficient to slow ASTRO-H quickly.,constraint
+ACS must not provide attitude maneuver commands too late after ASTRO-H has rotated too far.,constraint
+ACS must not provide attitude maneuver commands too early to achieve desired attitude.,constraint
+ACS must not stop providing attitude commands too soon before attitude has stabilized.,constraint
+ACS must not continue providing attitude maneuver commands too long after attitude has stabilized.,constraint
+Loss of life/serious injury.,loss
+Loss of personal identifiable information (PII).,loss
+Loss of credibility in the air transportation industry.,loss
+Mission delay.,loss
+Violation of minimum/maximum altitude.,hazard
+Violation of minimum distance to other aircraft.,hazard
+Uncontrolled aircraft.,hazard
+Aircraft flying off the route specified at flight plan.,hazard
+Unauthorized access to aircraft equipment (electronic and physical).,hazard
+Unable to dispatch aircraft.,hazard
+The flight crew must never violate predetermined minimum/maximum altitude.,constraint
+The flight crew must never violate the minimum distance to other aircraft.,constraint
+The flight crew must have control of the aircraft all the time.,constraint
+The aircraft must never fly off the route specified at the flight plan.,constraint
+No access to aircraft equipment (electronic or physical) shall be allowed without authorization.,constraint
+Aircraft must be dispatched.,exconstraint
+"Loss of Life / Injury (suffocation, eye/ear irritation etc.).",loss
+ Loss/damage to aircraft and its equipment.,loss
+Mission Interruption or delay.,loss
+High/Low Air Temperature.,exhazard
+High/Low Air Pressure.,exhazard
+Inappropriate Air Transport (bleed and distribution).,hazard
+Unacceptable Air Contamination.,hazard
+H2O/Ice (other) Accumulation.,hazard
+The AMS must not let the air temperature reach values out of the prescribed limits for the destination environment.,constraint
+The AMS must not let the air pressure reach values out of the prescribed limits for thedestination environment.,constraint
+The AMS must not extract air from from the inappropriate sources at the inappropriate.,constraint
+The AMS must not transport air to inappropriate environments at inappropriate times.,constraint
+The AMS must not distribute air inside the aircraft which is unacceptably contaminated.,constraint
+The AMS must avoid H2O/Ice accumulation.,constraint
+Aircraft (including both manned and unmanned systems) in the air are damaged or destroyed.,loss
+Personnel on the ground are injured or killed.,loss
+Structures on the ground are damaged or destroyed.,loss
+Testing or flight operations are unable to be conducted.,exloss
+Collision of a manned and unmanned aircraft.,exhazard
+Collision of two unmanned aircraft.,exhazard
+Debris from an aircraft impacts another aircraft.,exhazard
+Unmanned aircraft loses controlled flight capability.,hazard
+Collision of an unmanned aircraft with a person on the ground.,exhazard
+Debris from an unmanned aircraft strikes a person on the ground.,exhazard
+Collision of an unmanned aircraft with a structure on the ground.,exhazard
+Debris from an unmanned aircraft strikes a structure on the ground.,exhazard
+Unmanned aircraft testing unnecessarily interferes with flight operations.,hazard
+"Aircraft shall not enter a controlled airspace without broadcasting their location through Mode C, ADS-B, or IFF.",constraint
+Aircraft shall not enter a controlled airspace without verbal confirmation from the controller.,constraint
+"In areas where terrain masking may occur, the controller shall maintain awareness of aircraft that have requested access to the airspace.",constraint
+"When spin zones are in use, the controller shall not consider the area clear or safe.",constraint
+Controllers shall not approve requests for access to zones other than those that they are controlling.,constraint
+Controllers shall confirm that an aircraft has exited the zone via both voice communications and radar confirmation.,constraint
+Controllers shall monitor radar returns of aircraft that are ascending/descending to ensure minimum separation requirements.,constraint
+Controllers shall confirm that there are no rocket tests ongoing.,constraint
+Controllers shall confirm that the small arms range is inactive.,constraint
+UAS operator shall read back airspace clearance to controller.,constraint
+UAS operator shall immediately notify the losing controller if the UAV is incapable of exiting the old airspace.,constraint
+Wing safety shall ensure that the UAV software is updated with new airspace boundaries when they are changed.,constraint
+UAS operator shall immediately inform the controller if the UAV position becomes unclear.,constraint
+UAS operator shall immediately inform the controller in the event of a UAV malfunction.,constraint
+"UAS operations shall, when possible, be conducted well away from the boundaries of the airspace.",constraint
+A person or worker is standing/working under or passing through the excavators’ range cycle.,hazard
+Excavator within the vicinity of overhead electric lines.,hazard
+Radio communication should be in the disposal of the spotter and the operators.,constraint
+The spotter should have in his disposal visual signs to attract the attention of the operators.,constraint
+The spotter should be in a positions which will provide him the maximum possible observation range and minimum blind spots.,constraint
+Passenger falls out of moving train.,exloss
+Passengers not able to escape train during emergency.,exloss
+Passenger steps off stopped train not at platform.,exloss
+Doors close on passenger in doorway.,exloss
+Doors open when the train is moving.,hazard
+Doors close while person in the doorway.,hazard
+Doors stuck closed during emergency.,hazard
+Doors stuck open.,exhazard
+Doors open when not aligned to platform.,hazard
+Doors shall open at station when train is completely stopped and aligned with platform.,constraint
+Doors shall remain closed when train is moving.,constraint
+"Doors shall remain open when someone is in the doorway, the train shall not move until the doors close.",constraint
+The train shall remain stopped and a door open command issued if an object is detected in the doorway when doors are closed.,constraint
+"An emergency shall stop the train, Doors shall open in an emergency after the train has stopped.",constraint
+ Loss of or damage to the aircraft or  equipment on the aircraft.,loss
+Serious injury or fatality to personnel.,loss
+Inability to complete the mission.,loss
+Violation of minimum separation standards.,hazard
+Inability to control the aircraft.,hazard
+Loss of airframe integrity.,exhazard
+The aircraft must maintain minimum separation from potential sources of collision.,constraint
+The aircraft must be controllable by the pilot or piloting function in an OPV (optionally piloted vehicle) at all times.,constraint
+Airframe integrity must not be lost during flight.,constraint
+Vehicle crashes when Autopilot is active.,loss
+Driver does not provide required attention to driving tasks and environment.,hazard
+Autopilot does not react to other road crossing vehicles/obstacles.,hazard
+Autopilot must send objects to Autopilot HMI when required.,constraint
+Autopilot must send road signs to Autopilot HMI when required.,constraint
+Data Fusion and Assessment must provide assessed environment model to Autopilot when required.,constraint
+Driver must brake Model S when required.,constraint
+Driver must not perform other tasks when not allowed.,constraint
+patient is killed or seriously injured.,loss
+System reports fake patient’s results to the user.,hazard
+The system reports the patient’s required results from the controller too late.,hazard
+CSCP provides send impedance values command when ITMS is not connected.,hazard
+correct patient results must be reported to the Audiologist.,constraint
+Patient results must be reported to the Audiologist in a useable time frame.,constraint
+Erroneous arrival of product.,loss
+Erroneous payment to supplier.,loss
+Product loss.,loss
+Product integrity compromised.,loss
+Payment loss.,loss
+Inablity to initiate procurement process.,hazard
+Inability to perform physical transport.,hazard
+Inability to confirm product integrity.,hazard
+Inability to pay correctly.,hazard
+"Absence of warning when vehicle moves out of lane, resulting in a collision.",hazard
+"No corrective action provided by the system when the car moves out of lane, leading to a collision.",hazard
+"Corrective action provided when it isn’t required, resulting in a collision.",hazard
+"Corrective action (torque to the steering) provided in the wrongdirection, causing a collision.",hazard
+The LKA system must not allow the vehicle switch to lanes without the correct turn-indicator being actuated.,constraint
+The LKA system must not perform corrective action if the correct turn-indicator is actuated (if the direction of deviation is the same as the turn-indicator).,constraint
+The LKA system must verify that corrective action has beenperformed either from its inputs or feedback from the electrical steering system.,constraint
+Human loss due to a vehicle collision.,loss
+Violation of minimal safety distance between the Tesla and the truck.,hazard
+The safety control structure must prevent the violation of minimal distance between a vehicle and a truck.,constraint
+Flying without enough fuel on board.,hazard
+The air company dispatcher must be supply an flight plan with enough fuel to the enroute plus endurance flight.,constraint
+"Pilots must be assure that the aircraft have enough fuel to the enroute plus reserve fly of 30 minutes at 1,500 feet above the aerodrome.",constraint
+Air Traffic Control must take measures to avoid that the aircraft fly without enough fuel on board.,constraint
+"Injury, loss of life, damage of aircraft or property.",loss
+Maneuvering the aircraft outside the safety envelope (undesired aircraft state).,hazard
+"Violating separation from other aircraft, terrain, obstacles.",hazard
+The aircraft must be maneuvered within the safety envelope.,constraint
+"Separation from other aircraft, terrain, obstacles must be maintained.",constraint
+The FI must assist the trainee in enforcing these safety constraints.,constraint
+The FI must take over the control to enforce these safety constraints if necessary.,constraint
+Aircraft crash against habited houses.,hazard
+Aircraft take off under irregular conditions.,hazard
+The aircraft must not crash against habited houses.,constraint
+The aircraft must not take off under irregular conditions.,constraint
+" Runway Incursion: Presence of an Aircraft, Vehicle or Person on the protected area of a surface designated for the landing and take-off of Aircraft when an Aircraft is landing or taking-off.",hazard
+"Conflicting trajectories that lead to a loss of safe separation margin between Aircraft, Vehicles or People.",hazard
+"The HCS shall prevent the presence of an Aircraft, Vehicle or Person on the protected area when an Aircraft is landing or taking-off.",constraint
+"The HCS shall prevent the presence of an Aircraft, Vehicle or Person on the protected area when an Aircraft is in a position to land or take-off.",constraint
+"The HCS shall prevent trajectories that lead to a loss of safe separation margin between Aircraft, Vehicles or People.",constraint
+"TCAS causes or contributes to a near midair collision (NMAC), defined as a pair of controlled aircraft violating minimum separation standards.",hazard
+TCAS causes or contributes to an aircraft coming too close to a fixed structure or natural terrain.,hazard
+TCAS causes or contributes to the pilot losing control over the aircraft.,hazard
+"TCAS interferes with other safety-related aircraft systems (for example, ground proximity warning).",hazard
+"TCAS interferes with the ground-based air traffic control system (e.g., transponder transmissions to the ground or radar or radio services).",hazard
+"TCAS interferes with an ATC advisory that is safety-related (e.g., avoiding a restricted area or adverse weather conditions).",hazard
+TCAS must not interfere with the ground ATC system or other aircraft transmissions to the ground ATC system.,constraint
+TCAS must not disrupt the pilot and ATC operations during critical phases of flight nor disrupt aircraft operation.,constraint
+People exposed to chemicals.,loss
+People physically injured (e.g. explosion).,loss
+Production loss.,loss
+"Plant releases toxic chemicals (e.g. to air, ground, etc.).",hazard
+Overpressurization of plant equipment.,hazard
+Plant is unable to produce chemical X.,hazard
+Toxic chemicals must be contained within plant equipment.,constraint
+"Plant must be operated within limits (pressure, temperature, etc.).",constraint
+"If toxic chemicals are not contained, damage must be mitigated.",constraint
+Abnormal landing zone contact.,hazard
+"Slight physical injuries (crew, soldiers in the cargo).",loss
+Loss of mission (operational mission disrupted).,loss
+Damage to helicopter (material & financial losses).,loss
+Death or Human injury.,loss
+Damage to or loss of aircraft.,loss
+Unable to Complete Mission.,loss
+Flying to Close to other aircraft/out of position.,hazard
+Violation of Altitude/clear ance from terrain.,hazard
+Unable to evade enemy threats.,hazard
+Msn critical systems not functional when required.,hazard
+A/C must maintain minimum safe separation distance.,constraint
+Must have minimum mission critical safety systems functional to attempt AR.,exconstraint
+A/C must maintain minimum safe altitude limits.,constraint
+Must have minimum mission critical safety systems functional for terrain flight.,exconstraint
+Must maintain integrity of mission critical warning and deterrence systems.,exconstraint
+Msn critical systems must be available when required to perform primary msn.,constraint
+Loss of life/injury.,loss
+Loss of or damage to UAV aircraft.,loss
+Loss of mission.,loss
+UAV too close to ground/building/person.,hazard
+UAV violates minimum separation requirements.,hazard
+UAV does not complete mission.,hazard
+UAV departs controlled flight.,hazard
+"UAV departs apron, taxiway, or runway during ground operations.",hazard
+Loss of UAV airframe integrity.,exhazard
+Pregnancy during or after the use of isotretinoin.,hazard
+"The patient must not become pregnant at least a month before starting, during or after the use of isotretinoin.",constraint
+"Measures must exist in order to prevent the event of pregnancy up to one month before, during or after the use of isotretinoin.",constraint
+Specialist advice must be available in order to treat the patient in case pregnancy occurs.,constraint
+Patient injured or killed from radiation exposure.,loss
+A non‐patient is injured or killed by radiation.,loss
+Damage or loss of equipment.,loss
+Physical damage to patient or non‐patient during treatment (not from radiation).,loss
+Patient injured or killed from radiation exposure.,loss
+Staff injured or killed from radiation exposure.,loss
+Physical injury to patient or staff during treatment (not from RT).,loss
+Damage to equipment.,loss
+"Damage to patient or staff satisfaction, or hospital reputation.",loss
+"Wrong dose, location, or patient.",hazard
+Staff is unexpectedly exposed to radiation.,hazard
+Persons are subjected to the possibility of non-radiological injury.,hazard
+Equipment is subject to unexpected stress.,hazard
+"Workflow is subject to unexpected stress, delays in starting treatments.",hazard
+Two or more vehicles collide.,exloss
+Vehicle collides with non-fixed obstacle.,exloss
+Vehicle crashes into terrain.,exloss
+Vehicle occupants injured without vehicle collision.,loss
+Vehicle does not maintain safe distance from nearby vehicles.,hazard
+Vehicle does not maintain safe distance from terrain and other obstacles.,hazard
+"Vehicle occupants exposed to harmful effects, and/or health hazards.",hazard
+Vehicle enters uncontrollable or unrecoverable state.,hazard
+Unwanted or Excessive Positive Longitudinal Motion.,hazard
+Unwanted or Excessive Negative Longitudinal Motion.,hazard
+Unwanted or Excessive Lateral Motion.,hazard
+Path panning must include the ability to pass through an intersection in movement calculation before moving forward into an intersection.,constraint
+Sensor processing must have confidence and reduce false positive in distinguishing true moving target.,constraint
+Sensor processing must have foliage as a class in machine learning list.,constraint
+Fatalities.,exloss
+Loss of Generation.,loss
+Environmental Damage.,loss
+Collateral Damage.,exloss
+High pressure water not contained.,hazard
+Water cannot flow through on demand.,hazard
+Loss of confidence in the safety of drinking water supplied to the public.,loss
+Public exposed to unsafe drinking water.,hazard
+The public must not be exposed to pathogens in drinking water.,constraint
+Public health measures must reduce risk of public exposure to unsafe water during incidents.,constraint
+Level 1 SMS audit findings for non/compliance.,exloss
+Poor safety performance.,exloss
+SMS is not designed according to standards.,hazard
+SMS is not implemented according to standards.,hazard
+SMS is not suitable for the organization.,hazard
+SMS is not effective.,hazard
+SMS shall be designed according to standards.,constraint
+SMS shall be implemented according to standards.,constraint
+SMS shall be suitably scaled for the organization.,constraint
+SMS shall be effective.,constraint
+Loss of life or injury to people.,loss
+Loss of or damage to aircraft.,loss
+Loss of or damage to service vehicle/equipment.,loss
+Loss of or damage to infrastructure components.,loss
+Loss of transportation.,loss
+Aircraft violates the minimum separation from other aircrafts during operations on the ground.,hazard
+Aircraft violates the minimum separation from service vehicles during operations on the ground.,hazard
+Aircraft comes too close to service equipment components during operations on the ground.,hazard
+Aircraft comes too close to airport infrastructure components during operations on the ground.,hazard
+Airframe integrity is lost during operations on the ground.,hazard
+Service vehicle/equipment frame integrity is lost during operations on the ground.,hazard
+Airport infrastructure component integrity is lost during operations.,hazard
+Human physical integrity is lost during operations.,hazard
+Loss of life or injury to people.,loss
+Environmental loss.,loss
+Damage to valuable SGC components.,loss
+Reduced gas production.,loss
+SGC system continues to supply gas when gas leaks to the environment.,hazard
+SGC system operates under abnormal conditions.,hazard
+SGC system cannot produce gas with maximum capacity.,hazard
+SGC system must stop compressing gas when gas leaks to the environment.,constraint
+SGC system must be protected from abnormal operating conditions that can damage valuable components.,constraint
+SGC system must always produce gas with maximum capacity.,constraint
+AV collision with vulnerable road user (VRU).,exloss
+AV gets damaged.,loss
+Loss of reputation.,loss
+AV does not maintain safe distance to VRU.,hazard
+AV leaves the designated demo zone.,hazard
+AV does not maintain safe distance to another AV.,hazard
+AV does not maintain safe distance to structure.,hazard
+AV activates without request during autonomous maneuver.,hazard
+AV activates due to incorrect request during autonomous maneuver.,hazard
+AV does not respond to requests during autonomous maneuver.,hazard
+"Controller shall not open Door while train is moving, only when stopped.",constraint
+Controller shall not close Door while a passenger is in the doorway.,constraint
+Controller shall open Door in an emergency.,constraint
+Controller shall open Door when Train is stopped in Station.,constraint
+Controller shall report the state of the Door to the next-higher level of control.,constraint
+Controller shall allow time for passengers to exit & enter before attempting to close the door.,constraint
+The Controller shall warn passengers when the door is about to open or close.,constraint
+When the Train is stopped and not in a station and no emergency exists the Controller shall not open the door.,constraint
+"Human life, injury, motion sickness, fright.",loss
+"Environmental: oil and fuel pollution, debris in nature.",exloss
+Material or financial.,exloss
+Company reputation.,exloss
+Aircraft violates criteria for stable approaches.,hazard
+Controlled Flight Into Terrain (CFIT).,exhazard
+Aircraft violates minimum separation from airspace or other aircraft.,hazard
+Low fuel level after missed approaches.,hazard
+Aircraft must maintain criteria for stable approaches.,constraint
+The patient is injured or killed in the process of MRI simulation.,loss
+A nonpatient is injured or killed in the process of MRI simulation.,loss
+The patient is injured or killed from subsequent treatment due to inaccurate MRI simulation.,loss
+Damage or loss of equipment.,loss
+Ferromagnetic object exposed to a large magnetic field.,hazard
+"Electronic, electrical, and mechanical device exposed to large magnetic or RF fields.",hazard
+Human or equipment exposure to cryogen or quench gas.,hazard
+Human exposure to loud noise.,hazard
+Human overexposure to large magnetic field or RF field.,hazard
+"Simulation acquired is wrong patient, wrong location, wrong iso, or with poor immobilization.",hazard
+"Simulation acquired contains artifacts or otherwise poor image quality, or not transmided for RT planning.",hazard
+Spacecraft lost.,loss
+Spacecraft has inadequate heat and power.,hazard
+Spacecraft destroyed while landing on planet.,hazard
+Spacecraft hit by space debris.,hazard
+Loss of life or injury to persons.,loss
+Environmental losses.,loss
+Loss or disclosure of sensitive information.,loss
+Loss or damage to public or private properties.,loss
+Loss or damage to the vehicle.,loss
+Loss of ground support operation.,loss
+Mission loss or degradation.,loss
+Privation to track/communicate to the vehicle or payload.,hazard
+"Permanence of personnel in environment with energetic material, toxic material or with pressure vessels.",hazard
+Vehicle or payload out of flight route.,hazard
+Premature ignition of vehicle stages at the launch rail.,hazard
+Leak of sensitive information.,hazard
+Inadequate or unrealized launch facilities maintenance.,hazard
+"At the launch rail, vehicle stages must be prevented from igniting before planned, even when subjected to commands or electric discharges.",constraint
+"In the event of an unintended ignition, the vehicle must remain fixed to the launching rail, avoiding an unplanned route.",constraint
+"Vehicle stages and interfaces must be designed so that, in the event of an unintended ignition, they do not result in the vehicle explosion.",constraint
+Loss of life or injury.,loss
+Loss or damage to aircraft.,loss
+Loss of confidence in aircraft systems.,loss
+"Aircraft placed on trajectory or position that intersects with a physical obstruction (e.g., loss of separation, controlled flight into terrain).",hazard
+"Aircraft placed on trajectory that intersects with dangerous atmospheric conditions (e.g., storms, volcanic ash).",hazard
+Flight parameters fall outside of performance limits.,hazard
+Cabin parameters incompatible with human survival.,hazard
+Operation with degraded equipment (intentional or natural).,hazard
+Situational awareness of flight crew is blurred or lost.,hazard
+Flight crew is overworked.,hazard
+Death or injury to persons.,loss
+Damage to the aircraft.,loss
+Damage to airport infra-structure and/or proximities.,loss
+Aircraft does not stop before the runway end.,hazard
+Aircraft veers to a runway side.,hazard
+Power shortages.,loss
+Loss of customers.,loss
+"Loss of grid equipment (capacitors, lines, et.c).",loss
+Smartgrid has an inability to meet unexpected demands.,hazard
+Smartgrid is unable to satisfy local energy demands.,hazard
+Smartgrid has an inability to keep customers comfortable per their preferences.,hazard
+Smartgrid must be able to meet unexpected demands.,constraint
+Smartgrid must be able to meet local energy demands.,constraint
+Smartgrid must be able to keep customers comfortable as desired.,constraint
+Loss of life or serious injury to people.,loss
+Damage to the aircraft or objects outside the aircraft.,loss
+Aircraft violate minimum separation standards in flight.,hazard
+Controlled flight of aircraft into terrain.,hazard
+Aircraft airframe integrity is degraded.,hazard
+Aircraft environment is harmful to human health.,hazard
+Loss of life or serious injury to people.,loss
+Damage to the vehicle or objects outside the vehicle.,loss
+Loss of mission (transportation).,loss
+Loss of customer satisfaction.,loss
+Vehicle does not maintain safe distance from nearby objects.,hazard
+Vehicle enters dangerous area/region.,hazard
+"Vehicle exceeds safe operating envelope for environment (speed, lateral/longitudinal forces).",hazard
+Vehicle occupants exposed to harmful effects and/or health hazards.,hazard
+Loss of life or serious injury to patient.,loss
+Patient’s pain is not relieved.,loss
+Loss of protected patient or proprietary hospital information.,loss
+Financial loss or loss of hospital reputation.,loss
+Patient has opioid overdose.,hazard
+Patient has opioid underdose.,hazard
+Patient info disclosed to unauthorized parties.,hazard
+Loss of life or injury/health.,loss
+Environmental loss (release).,loss
+Loss of/damage to plant.,loss
+Loss of generation.,loss
+Plant releases radioactive material.,hazard
+Plant is operated outside limits.,hazard
+Plant is shut down.,hazard
+Vehicle must maintain safe distance from nearby objects.,constraint
+Chemical plant must not release toxic chemicals into the atmosphere.,constraint
+Nuclear power plant must not release radioactive materials into environment.,constraint
+Vehicles must always maintain safe distances from each other.,constraint
+Food products for sale contain pathogens.,hazard
+Food products with pathogens must not be sold.,constraint
+"Loss of life, injury or health compromise.",loss
+Damage to equipment or infrastructure.,loss
+Disruption on processing or transport.,loss
+Stain to reputation.,loss
+Equipment or procedure entraps user during processing.,hazard
+State or Dynamic leads to damages on physical component.,hazard
+Unauthorized user is allowed through.,hazard
+Non-recovery from disruption / Recovery into a hazardous state.,hazard
+Unauthorized/unconsented disclosure/release of PII/PD.,hazard
+Patient is (potentially or actually; same hereafter) injured or killed from radiation overexposure or under-treatment.,loss
+Nonpatient is injured or killed by radiation.,loss
+Physical injury to a patient or nonpatient not from radiation.,loss
+Damage or loss of equipment.,loss
+Damage to patient and staff satisfaction or hospital reputation.,loss
+"Radiation is delivered in the wrong dose (amount, location, or timing), or to the wrong patient.",hazard
+Nonpatient is unexpectedly exposed to radiation.,hazard
+"Any person is exposed to nonradiation materials and energies (e.g., cryogen, noise) at hazardous levels.",hazard
+Equipment is subject to stress beyond design.,hazard
+"Patient or staff is subject to unexpected stress, delays, or urgencies.",hazard
+Loss or damage to test environments.,loss
+Loss of mission (or performance degradation).,loss
+Financial loss.,loss
+Loss due to rescheduling.,loss
+Loss of client satisfaction.,loss
+Loss of product certification.,loss
+Loss of classified information.,loss
+"Loss of Human Life, Human Injury, Properties Damage or Environmental Losses.",loss
+Company doesn’t complete the certification processes.,hazard
+Products accepted in non-conformance with the specification.,hazard
+Certification Tests not performed as scheduled.,hazard
+Certification Process temporally interrupted due to budgetary constraints to the project.,hazard
+Leaking of project or production documentation.,hazard
+"Product, Design or Quality Management System certificate expired by time or cancelled due to failures of the products in operational life.",hazard
+"Design, Product, Quality Management System or Manufacturing Process certified with safety or mission related requirements not verified or not specified.",hazard
+"Reports, procedures, components, prototypes or design/production documents disapproved by Certification Authority.",hazard
+Certification Process implemented is not adequate to identify critical flaws or loss scenarios.,hazard
+"Certification Authority personal, including Organization Designation Authorization (ODA), unqualified to the product in analyse or at the certification process.",hazard
+The Quality Management Systems and Manufacturing Processes of the Company’s related to the Aeronautics and Space activities shall be certified.,constraint
+All the safety/mission critical military aerospace designs and products shall be Certified to allow use or operation.,constraint
+Verify the conformity of the products to respective certified design.,exconstraint
+"The products shall be in conformity with the design. If it’s not, it shall not be used or operated.",constraint
+The test planning shall consider the financial restrictions and the management risks of the project.,constraint
+The financial budget for the project development and production shall be allocated by the sponsors.,constraint
+"In case of budget restriction is unavoidable, the company management shall prioritize the activities without compromising safety or performance aspects.",constraint
+"Sensitive information regarding the aircrafts, vehicles, payloads and ground support systems designs or procedures; personnel data; production process; material; organic or operational safety information, among others, shall be kept with the allocated restricted access.",constraint
+"The owner of a certificate product shall be aware of the expiration date, if applicable, and provide the necessary documentation to avoid its expiration.",constraint
+The owner of a certificate product shall maintain the system safety and the manufacturing according to the design approved to avoid the certificate to be cancelled.,constraint
+The certification process shall allow verification of all safety critical or performance requirements and also the system functions.,constraint
+"The reports, procedures and documents not approved by Certification Authority shall be revised and the revisions shall be submitted to the Certification Authority for approval. It might be necessary to repeat test or simulations in order to verify design changes.",constraint
+The Certification Authority personnel shall be qualified at the certification process.,constraint
+The Certification Authority personnel shall be qualified according to project/production area they are analysing.,constraint
+The certification process shall allow identification of critical flaws and loss scenarios.,constraint
+"The certification process shall be continuously updated, allowing improvement of the procedures and regulations.",constraint
+The train derails.,exloss
+The train squeezes at switch.,exloss
+The train hits obstacles that violated the limit.,exloss
+The train hits personnel.,exloss
+The train exceeds speed limit on tie line.,hazard
+The train exceeds speed limit of switch P2602.,hazard
+The train exceeds speed limit of switch P10.,hazard
+Loss of human life / damage to health and wellbeing (e.g. long term concerns with COVID).,loss
+"Loss of economic stability (e.g. closure of business / increases in unemployment, decrease in purchasing power).",loss
+"Loss of functioning democratic society (e.g. loss of freedom, human right .etc.).",loss
+The population has an increase in infected cases.,hazard
+Inability of companies / organizations to operate normally.,hazard
+Overwhelming health system in the nation.,hazard
+Lack of essential supply in the nation.,hazard
+Social unrest in the nation.,hazard
+Discriminations in the nation.,hazard
+Loss of Intellectual Property.,loss
+Loss of Reputation.,loss
+Loss of Mission.,loss
+Loss or Damage to components / products.,loss
+Loss of Critical Protected Data.,loss
+Loss of life or injury to people.,loss
+Loss or damage to ego vehicle.,loss
+Loss of reputation (OEM and/or supplier).,loss
+Loss of driver comfort.,loss
+Ego vehicle leaves its lane.,hazard
+Ego vehicle applies hard braking.,hazard
+Ego vehicle applies insufficient braking.,hazard
+Ego vehicle applies hard acceleration.,hazard
+Ego vehicle must not leave the lane unless desired by the driver.,constraint
+Ego vehicle must not decelerate at rates greater than 4 m/s^2.,constraint
+Ego vehicle must decelerate at rates greater than 0.9 m/s^2.,constraint
+Ego vehicle must not accelerate at rates greater than 1 m/s^2.,constraint
+Loss of human life - human injury.,loss
+Workplace environment is not suitable for human health.,hazard
+Workplace ventilation integrity is lost.,hazard
+Workplace oxygen levels are not suitable (too low).,hazard
+Workplace methane levels are not suitable (too high).,hazard
+"If ventilation turned off, the workplace must be abandoned immediately.",constraint
+"If ventilation does not maintain oxygen level over 19%, this must be detected, and workers must use self-rescuers and abandon the workplace.",constraint
+" If ventilation does not maintain methane level below 2%, this must be detected, electricity must be cut off, and workers must follow specific procedures to reduce the methane content.",constraint
+"If ventilation does not maintain methane level below 3%, this must be detected, electricity must be cut off, and workers must abandon the workplace immediately.",constraint
+Loss of mission.,loss
+Loss of life or injury to people.,loss
+Enviromental losses.,loss
+Monetary losses.,loss
+Mission preparation time is exceeded.,hazard
+System operational limits are exceeded.,hazard
+System is not ready to fulfill designited mission.,hazard
+Mission efficiency is compromised by interference.,hazard
+Mission critical information is exposed to unauthorized person.,hazard
+Loss of life or injury to personnel.,loss
+Loss of or damage to aircraft.,loss
+Loss of customer satisfaction.,loss
+Loss of data quality.,loss
+Loss of flight test productivity.,loss
+Exceeding structure load limits.,hazard
+Reduction in control of aircraft.,hazard
+Inability to produce a usable maneuver.,hazard
+Patient is injured by ionizing radiation.,loss
+Patient received a wrong dose of radiation in the tumor.,hazard
+Patient received a wrong dose of radiation in the healthy tissues.,hazard
+"A patient should always receive radiation treatment as prescribed by the oncologist (dose, place and time).",constraint
+Prescribing of a medicine to a child at an excessive dose.,hazard
+Dispensing of a medicine for a child at an excessive dose.,hazard
+Administration of a medicine to a child at an excessive dose.,hazard
+Patients must not be prescribed incorrect doses of medicines.,constraint
+Measures must exist to prevent prescribing of incorrect doses of medicine.,constraint
+Treatments must be available to treat patients who receive incorrect doses of medicine.,constraint
+Injury or loss of life.,loss
+Damage to the vehicle.,loss
+Loss of mission.,loss
+Loss of customer satisfaction.,loss
+Loss of finances.,loss
+AV does not maintain a safe distance from vulnerable road users (VRUs) or other stationary or moving objects in the surroundings.,hazard
+AV leaves designated path.,hazard
+AV violates allowed operating conditions.,hazard
+AV behavior is uncomfortable for the passengers.,hazard
+AV loses control.,exhazard
+AV must maintain a safe distance from VRUs and other stationary and moving objects in the surroundings.,constraint
+AV must adhere to the designated path.,constraint
+AV must adhere to the allowed operating limits advised by the traffic rules and ODD limitations.,constraint
+AV must provide a comfortable experience to the passengers when driving or stationary.,constraint
+AV must never lose control.,constraint
+Violation of minimum separation rules between the AMR/infrastructure/humans/animals.,hazard
+Equipment under unnecessary stress.,hazard
+Loss of integrity of communication.,loss
+Lack of ability of aircraft to receive and transmit the proper data.,hazard
+Enter data with unauthorized modification.,hazard
+Loss or significant damage to the aircraft.,loss
+Significant damage to other people's property.,loss
+Fatalities or injury to persons.,loss
+Mission Non-Compliance.,loss
+The aircraft violates the minimum safety distance.,hazard
+The aircraft loss the communication with base.,exhazard
+The aircraft have insufficient power available.,hazard
+The aircraft loss the flight capability.,exhazard
+Aircraft should maintain a safe distance from obstacles and notify the operator when reaching the minimum distance.,constraint
+The aircraft must maintain constant communication with the base throughout the operation.,constraint
+The aircraft must be able to generate enough power to keep the systems running properly.,constraint
+Aircraft shall be capable of remaining airborn in a controlled manner throughout the operation.,constraint
+Loss of human life or injured people.,loss
+Loss or damage of production equipment.,loss
+Loss of the well.,loss
+Loss of production.,loss
+Loss of environmental integrity.,loss
+Indirect monetary losses.,loss
+Loss of reputation.,loss
+Oil well without control over liquid flows.,hazard
+Oil well without control over gas flows.,hazard
+Oil well with production flow reduced or interrupted.,hazard
+Oil well operate outside of the required pressure envelope.,hazard
+Loss of life or serious injury to people.,loss
+Damage to the ship or objects outside the ship.,loss
+Ship violates minimum separation from other ship.,hazard
+Ship violates minimum separation from any stationary object or underwater object.,hazard
+Ship enters into an unsafe area (low water-depth or stormy area).,hazard
+Catching fire inside the ship.,hazard
+Ship must not violate minimum separation from other ship.,constraint
+Ship must not violate minimum separation from any stationary object or underwater object.,constraint
+"If control over the ship is lost, then it must be detected and measures should be taken to regain control over the ship.",constraint
+Ship must not enter into an unsafe area (low water-depth or stormy area).,constraint
+The ship must be maintained properly so that the occurrence of fire is prevented.,constraint
+Human injury or loss of life.,loss
+"Loss of manufacturing/production capability (loss of continued production ability: robot, facility, etc.).",loss
+Damage of property (internal or external company).,loss
+Significant environmental release (possibly only minor for this application).,loss
+Loss or damage of product.,loss
+Robot makes contact with a person (directly or indirectly).,hazard
+"Robot makes unintended contact with rocket motor (non-initiation) (e.g. zone A may have lower threshold for “damaging contact”, etc.).",hazard
+"Robot creates conditions that are not suitable for segment (e.g. ignites segment, high heat, fire, sparking, etc.).",hazard
+Robot damage (i.e. handling is done improperly damages robot or rocket motor).,exhazard
+Loss of life or injury to patient or personnel.,loss
+Loss of reputation or trust in laboratory data ecosystem.,loss
+Patients receive less than the acceptable standard of care.,hazard
+Person is exposed to harm during testing process.,hazard
+"Laboratory ecosystem stakeholders including patients (the public) lose trust in data being collected, shared, analyzed, and reported.",hazard
+Loss of human life/injury.,loss
+"Asset damage (ship, battery trailer).",loss
+Loss of time (inefficient operation).,loss
+Passengers fail to evacuate when emergency.,hazard
+Passengers evacuate when no emergency.,hazard
+Loss of human life or injury.,loss
+Loss of stability of the ship.,loss
+Loss of ship's structural integrity/watertightness.,loss
+Loss of equipment.,loss
+Environmental loss/pollution.,loss
+The ship is very close to another ship or object.,hazard
+The ship is approaching shallow water.,hazard
+The ship's propulsion system is operating beyond the permissible limits.,hazard
+Flooding of contiguous watertight compartments.,hazard
+Fire spread.,exhazard
+Exceeding the safe operating limits of the mooring systems.,hazard
+Safe distance should always be kept and the crew must be aware when it is violated.,constraint
+Depth should be continuously monitored.,constraint
+Avoid operation beyond the permissible limits (emergency cases are excluded).,exconstraint
+The possibility of progressive flooding should be monitored and detected on time.,constraint
+Heat and smoke detectors should trigger an alarm and extinguishing systems.,constraint
+"Deck crew must be well trained, and equipment properly maintained and inspected.",constraint
+Loss of human life or human injury of laboratory-related personnel.,loss
+Loss of produced energetic material.,loss
+Damage to the Laboratorial Facility or the laboratory equipment.,loss
+Rework and project schedule timeline losses.,loss
+Financial losses.,loss
+Environmental losses.,loss
+Loss of human life or human injury of personnel external to the laboratory facilities.,loss
+The system process variables violate the minimum safety acceptable standards conditions for energetic materials.,hazard
+Personal and Collective Protective Equipment not used for laboratory activities.,hazard
+Laboratory equipment out of calibration standards.,hazard
+Energetic Materials usage out of the prescribed.,hazard
+Laboratory Procedures or Manuals not including essential safety protocols.,hazard
+"Materials, tools, infrastructure, or equipment damaged or unavailable to the operator proceed with the laboratory activities.",hazard
+Laboratorial Equipment or Energetic Materials are not adequately identified and stored.,hazard
+Laboratory facilities not appropriated for the current activities.,hazard
+Energetic Materials are handled without operational training.,hazard
+The energetic material state must not differ from the safety acceptable conditions to be handled.,constraint
+Laboratory Operators must verify the safety acceptable environmental conditions and the restrictions for handling energetic materials.,constraint
+Laboratories that handle energetic materials must have laboratory environmental control equipment.,constraint
+Laboratory Operators must set the laboratory process variables conditions in accordance with the limitations for handling the energetic materials under manipulation (analysis/syntheses).,constraint
+The laboratory supervisor must supervise the laboratory activities to verify the safety standards for handling energetic materials.,constraint
+"During laboratory handling and experiments with Energetic Materials, the Laboratory Operators must measure and receive data of the synthesis process variables conditions.",constraint
+Laboratory Operators must be able to stop the synthesis once it is detected that the process variables conditions are out of the safety acceptable states for handling.,constraint
+Energetic materials must be used as prescribed.,constraint
+"Energetic materials must be identified as to the synthesis date, expiration date when industrialized, or revalidation date.",constraint
+"A storage method for using chemicals, such as FIFO (First-In, First-Out), should be adopted.",constraint
+Laboratory Operators must be trained to manipulate energetic materials correctly.,constraint
+Expired materials must be revalidated before use.,constraint
+Energetic materials must be identified as to the particular danger of handling.,constraint
+"The Laboratory Supervisors must be a part of the scale of the energetic material manipulated, if the authorizations are correct, and if the work is conducted at the appropriate time with people to provide first aid or trigger emergency mode if necessary.",constraint
+Operators must conclude operational laboratory training for handling Energetic Materials.,constraint
+Operational laboratory trainings must approach the safety constraints and guidelines on handling Energetic Materials.,constraint
+The Laboratory Managers must periodically implement training for safely handling Energetic Materials to the Laboratory Supervisors and Operators.,constraint
+Laboratory Supervisors must verify if the Operators have concluded the training for safely handling Energetic Materials before authorizing the activities.,constraint

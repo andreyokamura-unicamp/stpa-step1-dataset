@@ -42,15 +42,20 @@ No entanto, devido a característica da análise e a disponibilidade de exemplos
 | Total  | 1078  |
 
 O Handbook de STPA (2018) fornece instruções para definição de sentenças de perdas, perigos e restrições do sistema. No entanto, nem todas as sentenças neste dataset segue o formato proposto pelo Handbook. Em vez de excluir estas sentenças não padronizadas, foi optado pela criação das classes "exloss", "exhazard" e "exconstraint", que contém estas sentenças separadas com o objetivo de testar o dataset emexperimentos.
+
 Os critérios para esta separação são os seguintes:
+
 Para Perdas, 1. a sentença deve conter uma palavra chave "loss", "damage", "injury", entre outros, que é ligada à uma perda, ou 2. ser alguma condição do sistema que deve ser evitada.
+
 Para Perigos, 1. a sentença deve mencionar o <sistema>, em conjunto com uma <condição não segura>, ou 2. deve ser algum estado ou condição do sistema, que pode levar à perda.
+
 Para restrições, 1. a sentença deve conter um verbo modal "must", "shall", "should", entre outros, que define uma restrição do sistema, ou 2. deve ser uma forma de minimizar as perdas, caso um perigo ocorra.
 
 ## Experimentos de Classificação
-Neste repositório foi incluído um notebook em Python para experimentação do dataset.
-Foram feitos dois experimentos de classificação com os algoritmos de aprendizado de máquina Support vector Machines (SVM) e Naïve Bayes (NB).
+Neste repositório foi incluído um notebook em Python para experimentação do dataset. Foram feitos dois experimentos de classificação com os algoritmos de aprendizado de máquina Support vector Machines (SVM) e Naïve Bayes (NB).
+
 Experimento 1: Classificação apenas com as classes "loss", "hazard" e "constraint", para simular casos em que as sentenças de entrada estão em um formato próximo do ideal.
+
 Experimento 2: Classificação das classes "exloss", "exhazard", e "exconstraint", somadas às suas respectivas classes originais, para testar o dataset em um estado sem filtragem (e inclui posíveis sentenças ambíguas ou errôneas).
 
 ## Sobre o Autor

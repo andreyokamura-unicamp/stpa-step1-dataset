@@ -16,7 +16,6 @@ Para o uso em Python, é recomendado o uso do código seguinte com a bliblioteca
 ```python
 import pandas as pd
 df = pd.read_csv(r'/[PATH]/stpa-step1-dataset.csv')
-}
 ```
 ## Colunas do dataset
 Este dataset contém 8 colunas, que organizam as informações coletadas.

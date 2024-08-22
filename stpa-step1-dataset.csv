@@ -1,4 +1,4 @@
-sentence,label,industry,year,title,url,slide,obs
+sentence,label,domain,year,title,url,slide,obs
 Humans and/or human assets on earth are killed/damaged.,loss,aerospace,2012,STPA and CAST Tutorial,http://psas.scripts.mit.edu/home/get_pdf.php?name=1-2-Beginners-Tutorial-part2.pdf,13,
 Humans and/or human assets off of the earth are killed/damaged.,loss,aerospace,2012,STPA and CAST Tutorial,http://psas.scripts.mit.edu/home/get_pdf.php?name=1-2-Beginners-Tutorial-part2.pdf,13,
 Organisms on any of the moons of the outer planet (if they exist) are killed or mutated by biological agents of Earth Origin.,loss,aerospace,2012,STPA and CAST Tutorial,http://psas.scripts.mit.edu/home/get_pdf.php?name=1-2-Beginners-Tutorial-part2.pdf,13,
@@ -574,13 +574,13 @@ Inability to pay correctly.,hazard,industry,2017,The use of STPA for understandi
 The LKA system must not allow the vehicle switch to lanes without the correct turn-indicator being actuated.,constraint,automotive,2017,Application of STPA to a lane keeping assist system,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Haneet-Singh_Application-Of-STPA-To-A-Lane-Keeping-Assist-System.pdf,12,
 The LKA system must not perform corrective action if the correct turn-indicator is actuated (if the direction of deviation is the same as the turn-indicator).,constraint,automotive,2017,Application of STPA to a lane keeping assist system,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Haneet-Singh_Application-Of-STPA-To-A-Lane-Keeping-Assist-System.pdf,12,
 The LKA system must verify that corrective action has beenperformed either from its inputs or feedback from the electrical steering system.,constraint,automotive,2017,Application of STPA to a lane keeping assist system,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Haneet-Singh_Application-Of-STPA-To-A-Lane-Keeping-Assist-System.pdf,12,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Human loss due to a vehicle collision.,loss,automotive,2017,CASCAD: Casual Analysis using STAMP to Connect and Automated Driving,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Stephanie-Alvarez_CASCAD.pdf,26,cast
+Violation of minimal safety distance between the Tesla and the truck.,hazard,automotive,2017,CASCAD: Casual Analysis using STAMP to Connect and Automated Driving,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Stephanie-Alvarez_CASCAD.pdf,26,cast
+The safety control structure must prevent the violation of minimal distance between a vehicle and a truck.,constraint,automotive,2017,CASCAD: Casual Analysis using STAMP to Connect and Automated Driving,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Stephanie-Alvarez_CASCAD.pdf,26,cast
+Flying without enough fuel on board.,hazard,aviation,2017,Preliminary CAST analysis of LaMia CP-2933 accident,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/CarlosLahoz-LaMia-STAMP2017.pdf,10,cast
+The air company dispatcher must be supply an flight plan with enough fuel to the enroute plus endurance flight.,constraint,aviation,2017,Preliminary CAST analysis of LaMia CP-2933 accident,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/CarlosLahoz-LaMia-STAMP2017.pdf,10,cast
+"Pilots must be assure that the aircraft have enough fuel to the enroute plus reserve fly of 30 minutes at 1,500 feet above the aerodrome.",constraint,aviation,2017,Preliminary CAST analysis of LaMia CP-2933 accident,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/CarlosLahoz-LaMia-STAMP2017.pdf,10,cast
+Air Traffic Control must take measures to avoid that the aircraft fly without enough fuel on board.,constraint,aviation,2017,Preliminary CAST analysis of LaMia CP-2933 accident,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/CarlosLahoz-LaMia-STAMP2017.pdf,10,cast
 "Injury, loss of life, damage of aircraft or property.",loss,aviation,2017,STPA-Based Model of Threat and Error Management in Dual Flight Instruction,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Ioana-Koglbauer_STPA-based-Model-Of-Threat-And-Error-Management-In-Dual-Flight-Instruction.pdf,6,
 Maneuvering the aircraft outside the safety envelope (undesired aircraft state).,hazard,aviation,2017,STPA-Based Model of Threat and Error Management in Dual Flight Instruction,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Ioana-Koglbauer_STPA-based-Model-Of-Threat-And-Error-Management-In-Dual-Flight-Instruction.pdf,6,
 "Violating separation from other aircraft, terrain, obstacles.",hazard,aviation,2017,STPA-Based Model of Threat and Error Management in Dual Flight Instruction,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Ioana-Koglbauer_STPA-based-Model-Of-Threat-And-Error-Management-In-Dual-Flight-Instruction.pdf,6,
@@ -588,15 +588,15 @@ The aircraft must be maneuvered within the safety envelope.,constraint,aviation,
 "Separation from other aircraft, terrain, obstacles must be maintained.",constraint,aviation,2017,STPA-Based Model of Threat and Error Management in Dual Flight Instruction,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Ioana-Koglbauer_STPA-based-Model-Of-Threat-And-Error-Management-In-Dual-Flight-Instruction.pdf,6,
 The FI must assist the trainee in enforcing these safety constraints.,constraint,aviation,2017,STPA-Based Model of Threat and Error Management in Dual Flight Instruction,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Ioana-Koglbauer_STPA-based-Model-Of-Threat-And-Error-Management-In-Dual-Flight-Instruction.pdf,6,
 The FI must take over the control to enforce these safety constraints if necessary.,constraint,aviation,2017,STPA-Based Model of Threat and Error Management in Dual Flight Instruction,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Ioana-Koglbauer_STPA-based-Model-Of-Threat-And-Error-Management-In-Dual-Flight-Instruction.pdf,6,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Aircraft crash against habited houses.,hazard,aviation,2017,CAST analysis of the PT-OVC Learjet 35A accident in Sao Paulo,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Idoaldo-Lima_CAST-Analysis-Learjet35A-Accident-In-Sao-Paulo.pdf,16,cast
+Aircraft take off under irregular conditions.,hazard,aviation,2017,CAST analysis of the PT-OVC Learjet 35A accident in Sao Paulo,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Idoaldo-Lima_CAST-Analysis-Learjet35A-Accident-In-Sao-Paulo.pdf,16,cast
+The aircraft must not crash against habited houses.,constraint,aviation,2017,CAST analysis of the PT-OVC Learjet 35A accident in Sao Paulo,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Idoaldo-Lima_CAST-Analysis-Learjet35A-Accident-In-Sao-Paulo.pdf,16,cast
+The aircraft must not take off under irregular conditions.,constraint,aviation,2017,CAST analysis of the PT-OVC Learjet 35A accident in Sao Paulo,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/03/Idoaldo-Lima_CAST-Analysis-Learjet35A-Accident-In-Sao-Paulo.pdf,16,cast
+" Runway Incursion: Presence of an Aircraft, Vehicle or Person on the protected area of a surface designated for the landing and take-off of Aircraft when an Aircraft is landing or taking-off.",hazard,aviation,2017,Applying CAST: Runway Incursion Case Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Simon-Whiteley_Applying-CAST-Runway-Incursion-Case-Study.pdf,15,cast
+"Conflicting trajectories that lead to a loss of safe separation margin between Aircraft, Vehicles or People.",hazard,aviation,2017,Applying CAST: Runway Incursion Case Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Simon-Whiteley_Applying-CAST-Runway-Incursion-Case-Study.pdf,15,cast
+"The HCS shall prevent the presence of an Aircraft, Vehicle or Person on the protected area when an Aircraft is landing or taking-off.",constraint,aviation,2017,Applying CAST: Runway Incursion Case Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Simon-Whiteley_Applying-CAST-Runway-Incursion-Case-Study.pdf,15,cast
+"The HCS shall prevent the presence of an Aircraft, Vehicle or Person on the protected area when an Aircraft is in a position to land or take-off.",constraint,aviation,2017,Applying CAST: Runway Incursion Case Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Simon-Whiteley_Applying-CAST-Runway-Incursion-Case-Study.pdf,15,cast
+"The HCS shall prevent trajectories that lead to a loss of safe separation margin between Aircraft, Vehicles or People.",constraint,aviation,2017,Applying CAST: Runway Incursion Case Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2017/04/Simon-Whiteley_Applying-CAST-Runway-Incursion-Case-Study.pdf,15,cast
 "TCAS causes or contributes to a near midair collision (NMAC), defined as a pair of controlled aircraft violating minimum separation standards.",hazard,aviation,2018,Creating and Using Leading Indicators,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/other-Leveson-PUB-Leading-Indicators.pdf,26,
 TCAS causes or contributes to an aircraft coming too close to a fixed structure or natural terrain.,hazard,aviation,2018,Creating and Using Leading Indicators,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/other-Leveson-PUB-Leading-Indicators.pdf,26,
 TCAS causes or contributes to the pilot losing control over the aircraft.,hazard,aviation,2018,Creating and Using Leading Indicators,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/other-Leveson-PUB-Leading-Indicators.pdf,26,
@@ -614,10 +614,10 @@ Plant is unable to produce chemical X.,hazard,nuclear,2018,STPA Intro,https://ps
 Toxic chemicals must be contained within plant equipment.,constraint,nuclear,2018,STPA Intro,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/JThomas-Batch-reactor-exercise.pdf,5,
 "Plant must be operated within limits (pressure, temperature, etc.).",constraint,nuclear,2018,STPA Intro,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/JThomas-Batch-reactor-exercise.pdf,5,
 "If toxic chemicals are not contained, damage must be mitigated.",constraint,nuclear,2018,STPA Intro,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/JThomas-Batch-reactor-exercise.pdf,5,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Abnormal landing zone contact.,hazard,aviation,2018,Introducing CAST into the Safety Investigation of Accidents and Incidents Involving French State Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-VACHER-PUB-Workshop_STAMP_2018_Vacher_V3.pdf,11,cast
+"Slight physical injuries (crew, soldiers in the cargo).",loss,aviation,2018,Introducing CAST into the Safety Investigation of Accidents and Incidents Involving French State Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-VACHER-PUB-Workshop_STAMP_2018_Vacher_V3.pdf,11,cast
+Loss of mission (operational mission disrupted).,loss,aviation,2018,Introducing CAST into the Safety Investigation of Accidents and Incidents Involving French State Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-VACHER-PUB-Workshop_STAMP_2018_Vacher_V3.pdf,11,cast
+Damage to helicopter (material & financial losses).,loss,aviation,2018,Introducing CAST into the Safety Investigation of Accidents and Incidents Involving French State Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-VACHER-PUB-Workshop_STAMP_2018_Vacher_V3.pdf,11,cast
 Death or Human injury.,loss,aviation,2018,STPA-Sec Case Study of a Next Generation Refueling Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/SPAN-STAMP_KC-X-STPA-SEC_FINAL_PA_Approved.pdf,8,stpa-sec
 Damage to or loss of aircraft.,loss,aviation,2018,STPA-Sec Case Study of a Next Generation Refueling Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/SPAN-STAMP_KC-X-STPA-SEC_FINAL_PA_Approved.pdf,8,stpa-sec
 Unable to Complete Mission.,loss,aviation,2018,STPA-Sec Case Study of a Next Generation Refueling Aircraft,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/SPAN-STAMP_KC-X-STPA-SEC_FINAL_PA_Approved.pdf,8,stpa-sec
@@ -640,10 +640,10 @@ UAV does not complete mission.,hazard,aviation,2018,STPA Applied to Air Force Ac
 UAV departs controlled flight.,hazard,aviation,2018,STPA Applied to Air Force Acquisition Technical Requirements Development,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-Summers-PUB-STAMP-Workshop-18-Brief.pdf,5,
 "UAV departs apron, taxiway, or runway during ground operations.",hazard,aviation,2018,STPA Applied to Air Force Acquisition Technical Requirements Development,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-Summers-PUB-STAMP-Workshop-18-Brief.pdf,5,
 Loss of UAV airframe integrity.,exhazard,aviation,2018,STPA Applied to Air Force Acquisition Technical Requirements Development,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Tues-Summers-PUB-STAMP-Workshop-18-Brief.pdf,5,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Pregnancy during or after the use of isotretinoin.,hazard,medicine,2018,CAST Analysis of Pregnancy Events in the U.K. due to Isotretinoin Administration,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Wed-Trantza-PUB-MIT-presentation-Trantza-Sophia-28.3.2018-final.pdf,9,cast
+"The patient must not become pregnant at least a month before starting, during or after the use of isotretinoin.",constraint,medicine,2018,CAST Analysis of Pregnancy Events in the U.K. due to Isotretinoin Administration,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Wed-Trantza-PUB-MIT-presentation-Trantza-Sophia-28.3.2018-final.pdf,9,cast
+"Measures must exist in order to prevent the event of pregnancy up to one month before, during or after the use of isotretinoin.",constraint,medicine,2018,CAST Analysis of Pregnancy Events in the U.K. due to Isotretinoin Administration,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Wed-Trantza-PUB-MIT-presentation-Trantza-Sophia-28.3.2018-final.pdf,9,cast
+Specialist advice must be available in order to treat the patient in case pregnancy occurs.,constraint,medicine,2018,CAST Analysis of Pregnancy Events in the U.K. due to Isotretinoin Administration,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Wed-Trantza-PUB-MIT-presentation-Trantza-Sophia-28.3.2018-final.pdf,9,cast
 Patient injured or killed from radiation exposure.,loss,medicine,2018,Application of STPA in Radiation Therapy: A Preliminary Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Application-of-STPA-in-Radiation-Therapy-SILVIS-MIT-STAMP-2018-long.pdf,24,
 A non‐patient is injured or killed by radiation.,loss,medicine,2018,Application of STPA in Radiation Therapy: A Preliminary Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Application-of-STPA-in-Radiation-Therapy-SILVIS-MIT-STAMP-2018-long.pdf,24,
 Damage or loss of equipment.,loss,medicine,2018,Application of STPA in Radiation Therapy: A Preliminary Study,https://psas.scripts.mit.edu/home/wp-content/uploads/2018/04/Application-of-STPA-in-Radiation-Therapy-SILVIS-MIT-STAMP-2018-long.pdf,24,
@@ -840,16 +840,16 @@ State or Dynamic leads to damages on physical component.,hazard,aviation,2020,"S
 Unauthorized user is allowed through.,hazard,aviation,2020,"STPA Applied for Safety, Security, and Privacy Issues in Smart Airport Terminal New Concepts",https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Airport-Terminal-Safety-Security-Privacy.pdf,11,
 Non-recovery from disruption / Recovery into a hazardous state.,hazard,aviation,2020,"STPA Applied for Safety, Security, and Privacy Issues in Smart Airport Terminal New Concepts",https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Airport-Terminal-Safety-Security-Privacy.pdf,11,
 Unauthorized/unconsented disclosure/release of PII/PD.,hazard,aviation,2020,"STPA Applied for Safety, Security, and Privacy Issues in Smart Airport Terminal New Concepts",https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Airport-Terminal-Safety-Security-Privacy.pdf,11,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Patient is (potentially or actually; same hereafter) injured or killed from radiation overexposure or under-treatment.,loss,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+Nonpatient is injured or killed by radiation.,loss,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+Physical injury to a patient or nonpatient not from radiation.,loss,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+Damage or loss of equipment.,loss,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+Damage to patient and staff satisfaction or hospital reputation.,loss,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+"Radiation is delivered in the wrong dose (amount, location, or timing), or to the wrong patient.",hazard,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+Nonpatient is unexpectedly exposed to radiation.,hazard,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+"Any person is exposed to nonradiation materials and energies (e.g., cryogen, noise) at hazardous levels.",hazard,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+Equipment is subject to stress beyond design.,hazard,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
+"Patient or staff is subject to unexpected stress, delays, or urgencies.",hazard,medicine,2020,Implementing CAST in Healthcare,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/Implementing-CAST-in-Healthcare.pdf,11,cast
 Loss or damage to test environments.,loss,military,2020,STPA Applied to Military Certification Process,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/STPA-Applied-to-Military-Certification.pdf,9,
 Loss of mission (or performance degradation).,loss,military,2020,STPA Applied to Military Certification Process,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/STPA-Applied-to-Military-Certification.pdf,9,
 Financial loss.,loss,military,2020,STPA Applied to Military Certification Process,https://psas.scripts.mit.edu/home/wp-content/uploads/2020/08/STPA-Applied-to-Military-Certification.pdf,9,
@@ -943,16 +943,16 @@ Loss of flight test productivity.,loss,aviation,2022,System-Theoretic Process An
 Exceeding structure load limits.,hazard,aviation,2022,System-Theoretic Process Analysis (STPA) Evaluation of Boeing's Automated Test Maneuvers (ATM) System,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-06-1250__Darren%20McDonald__PUB.pdf,5,
 Reduction in control of aircraft.,hazard,aviation,2022,System-Theoretic Process Analysis (STPA) Evaluation of Boeing's Automated Test Maneuvers (ATM) System,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-06-1250__Darren%20McDonald__PUB.pdf,5,
 Inability to produce a usable maneuver.,hazard,aviation,2022,System-Theoretic Process Analysis (STPA) Evaluation of Boeing's Automated Test Maneuvers (ATM) System,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-06-1250__Darren%20McDonald__PUB.pdf,5,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Patient is injured by ionizing radiation.,loss,medicine,2022,Applying CAST to Analyze an Incident in Radiation Therapy,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1130__Natalia%20Silvis-Cividjian__PUB.pdf,12,cast
+Patient received a wrong dose of radiation in the tumor.,hazard,medicine,2022,Applying CAST to Analyze an Incident in Radiation Therapy,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1130__Natalia%20Silvis-Cividjian__PUB.pdf,12,cast
+Patient received a wrong dose of radiation in the healthy tissues.,hazard,medicine,2022,Applying CAST to Analyze an Incident in Radiation Therapy,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1130__Natalia%20Silvis-Cividjian__PUB.pdf,12,cast
+"A patient should always receive radiation treatment as prescribed by the oncologist (dose, place and time).",constraint,medicine,2022,Applying CAST to Analyze an Incident in Radiation Therapy,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1130__Natalia%20Silvis-Cividjian__PUB.pdf,12,cast
+Prescribing of a medicine to a child at an excessive dose.,hazard,medicine,2022,Applying CAST to healthcare investigations: does it add more?,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1250__Nick%20Woodier__PUB.pdf,4,cast
+Dispensing of a medicine for a child at an excessive dose.,hazard,medicine,2022,Applying CAST to healthcare investigations: does it add more?,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1250__Nick%20Woodier__PUB.pdf,4,cast
+Administration of a medicine to a child at an excessive dose.,hazard,medicine,2022,Applying CAST to healthcare investigations: does it add more?,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1250__Nick%20Woodier__PUB.pdf,4,cast
+Patients must not be prescribed incorrect doses of medicines.,constraint,medicine,2022,Applying CAST to healthcare investigations: does it add more?,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1250__Nick%20Woodier__PUB.pdf,4,cast
+Measures must exist to prevent prescribing of incorrect doses of medicine.,constraint,medicine,2022,Applying CAST to healthcare investigations: does it add more?,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1250__Nick%20Woodier__PUB.pdf,4,cast
+Treatments must be available to treat patients who receive incorrect doses of medicine.,constraint,medicine,2022,Applying CAST to healthcare investigations: does it add more?,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-07-1250__Nick%20Woodier__PUB.pdf,4,cast
 Injury or loss of life.,loss,automotive,2022,STPA for Autonomous Vehicles Functions,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-08-1120__Anas%20Shahzad__PUB.pdf,6,
 Damage to the vehicle.,loss,automotive,2022,STPA for Autonomous Vehicles Functions,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-08-1120__Anas%20Shahzad__PUB.pdf,6,
 Loss of mission.,loss,automotive,2022,STPA for Autonomous Vehicles Functions,https://psas.scripts.mit.edu/home/wp-content/uploads/2022/2022-06-08-1120__Anas%20Shahzad__PUB.pdf,6,

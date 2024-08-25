@@ -1,37 +1,38 @@
 # STPA - Step 1 - Dataset
 
-## Introdução
-Este dataset contém sentenças (registros textuais) gerados e utilizados durante o primeiro passo da técnica de análise de perigo ***System-Theoretic Process Analysis*** (STPA), "Definir o propósito da análise".
-Este passo consiste em identificar três aspectos essenciais do sistema, dados por: 
-- Perdas ou ***Losses***, são os objetos ou entidades de valor aos stakeholders que não devem sofrer perdas, como vidas humanas, equipamentos ou missão;
-- Perigos ao nível de sistema ou ***System-Level Hazards***, são condições do sistema que, em situações de ambiente de pior caso, podem levar às Perdas;
-- Restrições ao nível de sistema ou ***System-Level Constraints***, são estados do sistema que devem ser cumpridos para evitar a ocorrência de Perigos.
+## Introduction
+This dataset contains textual sentences generated and used during the first step of the ***System-Theoretic Process Analysis*** (STPA) hazard analysis technique, called "defining the purpose of the analysis".
+In this step, three security aspects of the system are defined:
+- ***Losses*** are something of value which a loss is unacceptable to stakeholders, such as human life, equipment or mission;
+- ***System-Level Hazards*** are system states or conditions that, together with a set of worst-case environmental conditions, will lead to a loss;
+- ***Sustem-Level Constraints*** are the system's conditions or behaviors that need to be satisfied to prevent hazards.
 
-## Criação do dataset
-Este dataset foi criado por meio da extração de sentenças em inglês encontradas em apresentações de STPA realizadas no [*MIT Partnership for Systems Approaches to Safety and Security* (PSASS)](https://psas.scripts.mit.edu/home/), durante o período de 2012-2023.
+## Dataset Creation
+This dataset was created by extracting sentences found in presentations from the [*Annual MIT STAMP Workshop*](https://psas.scripts.mit.edu/home/).
+The presentations are from 2012 to 2023.
 
-## Forma de uso
-O dataset é um arquivo ".csv".
-Para o uso em Python, é recomendado o uso do código seguinte com a bliblioteca Pandas:
+### How to Use
+The dataset is a ".csv" file.
+For Python programming language, the use of Pandas library is recommended:
 ```python
 import pandas as pd
 df = pd.read_csv(r'/[PATH]/stpa-step1-dataset.csv')
 ```
-## Colunas do dataset
-Este dataset contém 8 colunas, que organizam as informações coletadas.
-1. "sentenca": A sentença extraída;
-2. "classe": O rótulo relacionado a sentença;
-3. "dominio": O domínio da apresentação;
-4. "ano": O ano da apresentação;
-5. "titulo": O nome da apresentação;
-6. "link": O endereço da apresentação;
-7. "slide": O slide em que a sentença foi retirada;
-8. "obs": Caso a apresentação não seja explicitamente sobre STPA, descreve o tipo da apresentação.
 
-## Distribuição de dados
-As sentenças retiradas são exemplos em tabelas das apresentações do workshop que explicitamente mostram o tipo da sentença (uma tabela com lista de Perdas, uma tabela com lista de Perigos, e uma tabela com lista de Restrições), que automaticamente representam o rótulo correspondente a ser preenchido no dataset.
-No entanto, devido a característica da análise e a disponibilidade de exemplos extreaídos, ocorre um desbalanceamento de classes, visto na tabela a seguir.
-| Classes  | nº de Sentenças |
+## Dataset Columns
+This dataset has 8 columns that organize the collected data.
+1. "sentence": The extracted textual sentence;
+2. "label": The classification label related to the sentence;
+3. "domain": The presentation domain;
+4. "year": The year of presentation;
+5. "title": The presentation title;
+6. "url": The presentation URL;
+7. "slide": The slide number where the sentence was extracted;
+8. "obs": If the presentation is not explicitly about STPA, then the type of presentation.
+
+## Class distribution
+The sentences extracted are from slides that explicitly show the type of sentence (for example a table explaining which are the system losses and hazards), that automatically represents the corresponding label to be filled in the dataset. However, the presentations containing different amounts of examples lead to an unbalanced dataset.
+| Class  | Sentences |
 | :---     |        ---: |
 | loss  | 254  |
 | hazard  | 408  |
@@ -41,22 +42,28 @@ No entanto, devido a característica da análise e a disponibilidade de exemplos
 | constraint  | 19  |
 | Total  | 1078  |
 
-O Handbook de STPA (2018) fornece instruções para definição de sentenças de perdas, perigos e restrições do sistema. No entanto, nem todas as sentenças neste dataset segue o formato proposto pelo Handbook. Em vez de excluir estas sentenças não padronizadas, foi optado pela criação das classes "exloss", "exhazard" e "exconstraint", que contém estas sentenças separadas com o objetivo de testar o dataset emexperimentos.
+In this dataset, there are few sentences with ambiguous meanings, or lack of information or context. Some sentences might be too different from what is recommended by the STPA Handbook. Instead of completely removing these sentences from the dataset, the sentences which may impact classification performance were grouped into a new label, named “excluded” sentences. In order to keep the original label information, a combination of both labels is used, resulting in new "exloss", "exhazard" and "exconstraint" labels.
 
-Os critérios para esta separação são os seguintes:
+The criteria for separation are as follows:
 
-Para Perdas, 1. a sentença deve conter uma palavra chave "loss", "damage", "injury", entre outros, que é ligada à uma perda, ou 2. ser alguma condição do sistema que deve ser evitada.
+For Losses:
+1. The sentence should contain a Loss-related keyword (such as “loss”, “damage”, “injury”);
+2. The sentence should involve something of value to stakeholders.
 
-Para Perigos, 1. a sentença deve mencionar o <sistema>, em conjunto com uma <condição não segura>, ou 2. deve ser algum estado ou condição do sistema, que pode levar à perda.
+For Hazards:
+1. The sentence should mention a <system> and an <unsafe condition>;
+2. The sentence should be a state or condition that, together with a set of worst-case environmental conditions, will lead to a loss.
 
-Para restrições, 1. a sentença deve conter um verbo modal "must", "shall", "should", entre outros, que define uma restrição do sistema, ou 2. deve ser uma forma de minimizar as perdas, caso um perigo ocorra.
+For Constraints:
+1. The sentence should mention a <system> and <condition to enforce> (using a modal verb, such as “must”, ”shall”, “should”);
+2. The sentence can also define how to minimize losses in case a hazard occurs.
 
-## Experimentos de Classificação
-Neste repositório foi incluído um notebook em Python para experimentação do dataset. Foram feitos dois experimentos de classificação com os algoritmos de aprendizado de máquina Support vector Machines (SVM) e Naïve Bayes (NB).
+## Classification Experiments
+In this repository is available a Python Notebook to demonstrate the use of this dataset. There are two experiments that use traditional machine learning classification algorithms, called Support Vector Machines (SVM) and Naïve Bayes (NB).
 
-Experimento 1: Classificação apenas com as classes "loss", "hazard" e "constraint", para simular casos em que as sentenças de entrada estão em um formato próximo do ideal.
+Experiment 1: Classification of sentences only using the “loss”, “hazard” and “constraint” labels, without the “excluded” sentences. This aims to investigate the dataset in a clean state, with sentences closer to what is recommended by the Handbook.
 
-Experimento 2: Classificação das classes "exloss", "exhazard", e "exconstraint", somadas às suas respectivas classes originais, para testar o dataset em um estado sem filtragem (e inclui posíveis sentenças ambíguas ou errôneas).
+Experiment 2: Classification of sentences with the “excluded” sentences reverted and added back into their original classes (“exloss”, “exhazard” and “exconstraint” added back into “loss”, “hazard” and “constraint”, respectively). This aims to investigate the dataset by including possible noise from excluded sentences, and to compare the dataset in different levels of quality.
 
-## Sobre o Autor
-Este dataset foi criado pelo mestrando de Sistemas de Informação e Comunicação *Andrey Toshiro Okamura*, da Faculdade de Tecnologia da UNICAMP (Limeira-SP), sob orientação da Profa. Dra. Ana Estela Antunes da Silva.
+## About the Author
+This dataset was created by the Computing and Communication Systems graduate student *Andrey Toshiro Okamura*, from the State University of Campinas (UNICAMP)'s School of Technology.
